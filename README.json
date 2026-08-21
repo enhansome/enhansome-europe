@@ -12,7 +12,7 @@
             "archived": false,
             "id": 52717143,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:57:02Z",
+            "last_commit": "2026-08-21T14:05:50Z",
             "owner": "act-rules",
             "repo": "act-rules.github.io",
             "stars": 164
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 258191576,
             "language": "Dart",
-            "last_commit": "2026-08-20T19:11:07Z",
+            "last_commit": "2026-08-21T19:08:46Z",
             "owner": "openfoodfacts",
             "repo": "smooth-app",
             "stars": 1398
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-20T17:42:11Z",
+            "last_commit": "2026-08-21T17:17:27Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-20T15:37:16Z",
+            "last_commit": "2026-08-21T16:33:55Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 787
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 5055080,
             "language": "Python",
-            "last_commit": "2026-08-19T10:43:12Z",
+            "last_commit": "2026-08-21T14:32:10Z",
             "owner": "opensanctions",
             "repo": "nomenklatura",
             "stars": 262
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-18T06:42:59Z",
             "owner": "opensanctions",
             "repo": "yente",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 616229823,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T07:05:23Z",
+            "last_commit": "2026-08-21T21:59:23Z",
             "owner": "openaleph",
             "repo": "openaleph",
             "stars": 120
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 124404569,
             "language": "Ruby",
-            "last_commit": "2026-08-19T17:35:03Z",
+            "last_commit": "2026-08-21T11:57:29Z",
             "owner": "lineofflight",
             "repo": "frankfurter",
-            "stars": 1787
+            "stars": 1790
           }
         },
         {
@@ -567,10 +567,10 @@
             "archived": false,
             "id": 162200234,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T22:01:56Z",
+            "last_commit": "2026-08-21T21:15:30Z",
             "owner": "OpenCTI-Platform",
             "repo": "opencti",
-            "stars": 9833
+            "stars": 9837
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 8077402,
             "language": "PHP",
-            "last_commit": "2026-08-20T14:37:14Z",
+            "last_commit": "2026-08-21T07:46:44Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6480
+            "stars": 6483
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-19T04:24:45Z",
             "owner": "altcha-org",
             "repo": "altcha",
-            "stars": 2683
+            "stars": 2686
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-06-30T09:01:11Z",
             "owner": "TheHive-Project",
             "repo": "Cortex",
-            "stars": 1617
+            "stars": 1618
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-19T15:52:18Z",
             "owner": "CERT-Polska",
             "repo": "drakvuf-sandbox",
-            "stars": 1330
+            "stars": 1332
           }
         },
         {
@@ -642,10 +642,10 @@
             "archived": false,
             "id": 571612478,
             "language": "Python",
-            "last_commit": "2026-08-20T14:06:00Z",
+            "last_commit": "2026-08-21T18:56:31Z",
             "owner": "CERT-Polska",
             "repo": "Artemis",
-            "stars": 1198
+            "stars": 1199
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-19T12:54:32Z",
             "owner": "ail-project",
             "repo": "ail-framework",
-            "stars": 996
+            "stars": 997
           }
         },
         {
@@ -672,7 +672,7 @@
             "archived": false,
             "id": 98115418,
             "language": "Python",
-            "last_commit": "2026-08-20T10:23:02Z",
+            "last_commit": "2026-08-21T00:19:09Z",
             "owner": "Lookyloo",
             "repo": "lookyloo",
             "stars": 773
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 52686509,
             "language": "Python",
-            "last_commit": "2026-08-19T14:53:09Z",
+            "last_commit": "2026-08-21T11:23:10Z",
             "owner": "MISP",
             "repo": "misp-galaxy",
             "stars": 635
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 192614260,
             "language": "Python",
-            "last_commit": "2026-08-20T21:19:45Z",
+            "last_commit": "2026-08-21T16:02:29Z",
             "owner": "OpenCTI-Platform",
             "repo": "connectors",
             "stars": 570
@@ -732,7 +732,7 @@
             "archived": false,
             "id": 572446652,
             "language": "Python",
-            "last_commit": "2026-08-20T16:57:27Z",
+            "last_commit": "2026-08-21T11:58:16Z",
             "owner": "vulnerability-lookup",
             "repo": "vulnerability-lookup",
             "stars": 565
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-20T11:38:43Z",
             "owner": "TheHive-Project",
             "repo": "Cortex-Analyzers",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-20T16:03:11Z",
             "owner": "MISP",
             "repo": "PyMISP",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-07-09T16:09:17Z",
             "owner": "CERT-Polska",
             "repo": "karton",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-13T17:30:08Z",
             "owner": "CERT-Polska",
             "repo": "mwdb-core",
-            "stars": 398
+            "stars": 399
           }
         },
         {
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 51930975,
             "language": "Python",
-            "last_commit": "2026-08-18T20:21:59Z",
+            "last_commit": "2026-08-21T03:47:21Z",
             "owner": "MISP",
             "repo": "misp-modules",
             "stars": 376
@@ -825,7 +825,7 @@
             "last_commit": "2025-06-22T15:04:16Z",
             "owner": "CERT-Polska",
             "repo": "malduck",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 46477798,
             "language": "Python",
-            "last_commit": "2026-08-18T04:20:31Z",
+            "last_commit": "2026-08-21T07:43:33Z",
             "owner": "MISP",
             "repo": "misp-taxonomies",
             "stars": 304
@@ -852,7 +852,7 @@
             "archived": false,
             "id": 408750607,
             "language": "Python",
-            "last_commit": "2026-08-20T20:54:17Z",
+            "last_commit": "2026-08-21T20:55:19Z",
             "owner": "pandora-analysis",
             "repo": "pandora",
             "stars": 282
@@ -912,7 +912,7 @@
             "archived": false,
             "id": 533742251,
             "language": "Python",
-            "last_commit": "2026-08-18T15:54:08Z",
+            "last_commit": "2026-08-21T14:33:50Z",
             "owner": "ail-project",
             "repo": "lacus",
             "stars": 118
@@ -1068,7 +1068,7 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-20T22:37:42Z",
+            "last_commit": "2026-08-21T19:13:27Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1808
@@ -1083,10 +1083,10 @@
             "archived": false,
             "id": 487492,
             "language": "Perl",
-            "last_commit": "2026-08-20T18:25:32Z",
+            "last_commit": "2026-08-21T18:47:22Z",
             "owner": "mysociety",
             "repo": "fixmystreet",
-            "stars": 611
+            "stars": 612
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 1125389,
             "language": "Ruby",
-            "last_commit": "2026-08-20T15:54:13Z",
+            "last_commit": "2026-08-21T16:27:28Z",
             "owner": "mysociety",
             "repo": "alaveteli",
             "stars": 419
@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 1700944,
             "language": "Python",
-            "last_commit": "2026-08-20T10:01:50Z",
+            "last_commit": "2026-08-21T17:25:14Z",
             "owner": "okfde",
             "repo": "froide",
             "stars": 411
@@ -1158,7 +1158,7 @@
             "archived": false,
             "id": 7755848,
             "language": "Python",
-            "last_commit": "2026-08-20T18:44:45Z",
+            "last_commit": "2026-08-21T12:50:47Z",
             "owner": "okfde",
             "repo": "fragdenstaat_de",
             "stars": 148
@@ -1269,7 +1269,7 @@
             "archived": false,
             "id": 844279282,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:25:05Z",
+            "last_commit": "2026-08-21T14:32:43Z",
             "owner": "verifywise-ai",
             "repo": "verifywise",
             "stars": 338
@@ -1470,10 +1470,10 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-20T14:13:17Z",
+            "last_commit": "2026-08-21T22:05:18Z",
             "owner": "root-project",
             "repo": "root",
-            "stars": 3283
+            "stars": 3284
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "archived": false,
             "id": 2113067,
             "language": "Python",
-            "last_commit": "2026-08-20T12:18:10Z",
+            "last_commit": "2026-08-21T16:01:47Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2099
@@ -1578,7 +1578,7 @@
             "last_commit": "2026-08-03T20:47:58Z",
             "owner": "hsf-training",
             "repo": "cpluspluscourse",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -1650,7 +1650,7 @@
             "archived": false,
             "id": 188058383,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:23:03Z",
+            "last_commit": "2026-08-21T13:53:23Z",
             "owner": "inveniosoftware",
             "repo": "invenio-app-rdm",
             "stars": 173
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 20938890,
             "language": "Python",
-            "last_commit": "2026-08-20T15:19:32Z",
+            "last_commit": "2026-08-21T15:52:22Z",
             "owner": "OpenAPC",
             "repo": "openapc-de",
             "stars": 134
@@ -1778,21 +1778,6 @@
         },
         {
           "node_type": "item",
-          "title": "EMMO",
-          "description": "Elementary Multiperspective Material Ontology developed by the European Materials Modelling Council.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 189387204,
-            "language": "Python",
-            "last_commit": "2026-08-20T17:54:38Z",
-            "owner": "emmo-repo",
-            "repo": "EMMO",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
           "title": "RDA DMP Common Standard",
           "description": "Machine-actionable data management plan standard used in European research infrastructure.",
           "children": [],
@@ -1845,7 +1830,7 @@
             "archived": false,
             "id": 12726858,
             "language": "Java",
-            "last_commit": "2026-08-20T09:09:51Z",
+            "last_commit": "2026-08-21T14:59:16Z",
             "owner": "keeps",
             "repo": "dbptk-developer",
             "stars": 54
@@ -1875,7 +1860,7 @@
             "archived": false,
             "id": 47683530,
             "language": "Python",
-            "last_commit": "2026-08-19T11:33:20Z",
+            "last_commit": "2026-08-21T14:00:14Z",
             "owner": "HEPData",
             "repo": "hepdata",
             "stars": 45
@@ -2091,7 +2076,7 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T19:25:38Z",
+            "last_commit": "2026-08-21T19:55:05Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 302
@@ -2211,7 +2196,7 @@
             "archived": false,
             "id": 442090807,
             "language": "Dart",
-            "last_commit": "2026-08-20T15:30:37Z",
+            "last_commit": "2026-08-21T11:32:20Z",
             "owner": "TalaoDAO",
             "repo": "AltMe",
             "stars": 61
@@ -2274,7 +2259,7 @@
             "last_commit": "2026-08-17T06:04:19Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-jvm-openid4vci-kt",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -2316,7 +2301,7 @@
             "archived": false,
             "id": 708535388,
             "language": "Swift",
-            "last_commit": "2026-08-20T07:22:48Z",
+            "last_commit": "2026-08-21T15:12:27Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-ios-wallet-kit",
             "stars": 40
@@ -2334,7 +2319,7 @@
             "last_commit": "2026-08-13T03:14:54Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-srv-pid-issuer",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -2409,7 +2394,7 @@
             "last_commit": "2026-08-17T13:23:46Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-jvm-openid4vp-kt",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -2451,7 +2436,7 @@
             "archived": false,
             "id": 706521066,
             "language": "Rust",
-            "last_commit": "2026-08-04T14:41:26Z",
+            "last_commit": "2026-08-21T19:28:27Z",
             "owner": "impierce",
             "repo": "ssi-agent",
             "stars": 21
@@ -2502,7 +2487,7 @@
             "archived": false,
             "id": 18536476,
             "language": "XSLT",
-            "last_commit": "2026-08-19T12:43:29Z",
+            "last_commit": "2026-08-21T13:08:04Z",
             "owner": "ZUGFeRD",
             "repo": "mustangproject",
             "stars": 452
@@ -2532,7 +2517,7 @@
             "archived": false,
             "id": 14122610,
             "language": "C#",
-            "last_commit": "2026-08-20T05:10:01Z",
+            "last_commit": "2026-08-21T19:22:36Z",
             "owner": "stephanstapel",
             "repo": "ZUGFeRD-csharp",
             "stars": 393
@@ -2595,7 +2580,7 @@
             "last_commit": "2026-07-27T08:17:19Z",
             "owner": "gflohr",
             "repo": "e-invoice-eu",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -2667,7 +2652,7 @@
             "archived": false,
             "id": 99555578,
             "language": "XSLT",
-            "last_commit": "2026-08-20T14:51:32Z",
+            "last_commit": "2026-08-21T13:06:26Z",
             "owner": "OpenPEPPOL",
             "repo": "peppol-bis-invoice-3",
             "stars": 154
@@ -2775,7 +2760,7 @@
             "last_commit": "2026-08-20T20:13:34Z",
             "owner": "phax",
             "repo": "peppol-commons",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -2913,10 +2898,10 @@
             "archived": false,
             "id": 59370571,
             "language": "Python",
-            "last_commit": "2026-08-20T08:09:13Z",
+            "last_commit": "2026-08-21T12:32:10Z",
             "owner": "electricitymaps",
             "repo": "electricitymaps-contrib",
-            "stars": 4021
+            "stars": 4023
           }
         },
         {
@@ -2928,10 +2913,10 @@
             "archived": false,
             "id": 49414256,
             "language": "Python",
-            "last_commit": "2026-08-20T03:59:47Z",
+            "last_commit": "2026-08-21T03:55:24Z",
             "owner": "PyPSA",
             "repo": "PyPSA",
-            "stars": 2104
+            "stars": 2105
           }
         },
         {
@@ -2958,7 +2943,7 @@
             "archived": false,
             "id": 106621728,
             "language": "Python",
-            "last_commit": "2026-08-19T10:49:22Z",
+            "last_commit": "2026-08-21T08:20:24Z",
             "owner": "PyPSA",
             "repo": "pypsa-eur",
             "stars": 607
@@ -2988,10 +2973,10 @@
             "archived": false,
             "id": 46793877,
             "language": "Python",
-            "last_commit": "2026-08-19T11:58:16Z",
+            "last_commit": "2026-08-21T20:36:19Z",
             "owner": "oemof",
             "repo": "oemof-solph",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -3006,7 +2991,7 @@
             "last_commit": "2026-08-13T10:48:15Z",
             "owner": "PyPSA",
             "repo": "atlite",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -3021,7 +3006,7 @@
             "last_commit": "2026-08-07T17:43:46Z",
             "owner": "calliope-project",
             "repo": "calliope",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -3036,7 +3021,7 @@
             "last_commit": "2026-06-22T06:04:16Z",
             "owner": "JaccoR",
             "repo": "hass-entso-e",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -3048,7 +3033,7 @@
             "archived": false,
             "id": 80120461,
             "language": "Python",
-            "last_commit": "2026-08-20T13:52:26Z",
+            "last_commit": "2026-08-21T22:29:00Z",
             "owner": "ESMValGroup",
             "repo": "ESMValTool",
             "stars": 271
@@ -3093,7 +3078,7 @@
             "archived": false,
             "id": 318520609,
             "language": "Python",
-            "last_commit": "2026-08-20T21:16:15Z",
+            "last_commit": "2026-08-21T17:48:34Z",
             "owner": "FlexMeasures",
             "repo": "flexmeasures",
             "stars": 206
@@ -3108,7 +3093,7 @@
             "archived": false,
             "id": 105284146,
             "language": "Java",
-            "last_commit": "2026-08-20T16:24:34Z",
+            "last_commit": "2026-08-21T16:00:55Z",
             "owner": "powsybl",
             "repo": "powsybl-core",
             "stars": 182
@@ -3123,7 +3108,7 @@
             "archived": false,
             "id": 136322941,
             "language": "Python",
-            "last_commit": "2026-08-19T16:54:10Z",
+            "last_commit": "2026-08-21T13:44:37Z",
             "owner": "OpenEnergyPlatform",
             "repo": "ontology",
             "stars": 160
@@ -3198,7 +3183,7 @@
             "archived": false,
             "id": 150385632,
             "language": "Python",
-            "last_commit": "2026-08-20T09:45:56Z",
+            "last_commit": "2026-08-21T14:12:52Z",
             "owner": "spine-tools",
             "repo": "Spine-Toolbox",
             "stars": 101
@@ -3243,7 +3228,7 @@
             "archived": false,
             "id": 212108030,
             "language": "Java",
-            "last_commit": "2026-08-20T11:37:38Z",
+            "last_commit": "2026-08-21T16:10:32Z",
             "owner": "powsybl",
             "repo": "powsybl-open-loadflow",
             "stars": 79
@@ -3273,7 +3258,7 @@
             "archived": false,
             "id": 158683766,
             "language": "Java",
-            "last_commit": "2026-08-20T14:26:12Z",
+            "last_commit": "2026-08-21T12:58:34Z",
             "owner": "powsybl",
             "repo": "powsybl-open-rao",
             "stars": 33
@@ -3294,7 +3279,7 @@
             "archived": false,
             "id": 22983651,
             "language": "C#",
-            "last_commit": "2026-08-17T06:23:32Z",
+            "last_commit": "2026-08-21T16:44:17Z",
             "owner": "nager",
             "repo": "Nager.Date",
             "stars": 1396
@@ -3327,7 +3312,7 @@
             "last_commit": "2026-08-15T16:20:46Z",
             "owner": "arthurdejong",
             "repo": "python-stdnum",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -3342,7 +3327,7 @@
             "last_commit": "2025-12-03T19:45:38Z",
             "owner": "globalcitizen",
             "repo": "php-iban",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -3480,7 +3465,7 @@
             "archived": false,
             "id": 1866915,
             "language": "HTML",
-            "last_commit": "2026-08-20T14:20:19Z",
+            "last_commit": "2026-08-21T20:51:25Z",
             "owner": "Arelle",
             "repo": "Arelle",
             "stars": 229
@@ -3744,7 +3729,7 @@
             "last_commit": "2026-07-23T21:39:48Z",
             "owner": "orestbida",
             "repo": "cookieconsent",
-            "stars": 5630
+            "stars": 5634
           }
         },
         {
@@ -3756,10 +3741,10 @@
             "archived": false,
             "id": 694266896,
             "language": "Python",
-            "last_commit": "2026-08-20T21:51:43Z",
+            "last_commit": "2026-08-21T19:19:37Z",
             "owner": "intuitem",
             "repo": "ciso-assistant-community",
-            "stars": 4361
+            "stars": 4363
           }
         },
         {
@@ -3774,7 +3759,7 @@
             "last_commit": "2026-02-07T15:11:53Z",
             "owner": "cavi-au",
             "repo": "Consent-O-Matic",
-            "stars": 4211
+            "stars": 4212
           }
         },
         {
@@ -3804,7 +3789,7 @@
             "last_commit": "2025-03-27T13:59:10Z",
             "owner": "kiprotect",
             "repo": "klaro",
-            "stars": 1505
+            "stars": 1507
           }
         },
         {
@@ -3831,10 +3816,10 @@
             "archived": false,
             "id": 913434583,
             "language": "Go",
-            "last_commit": "2026-08-20T22:11:03Z",
+            "last_commit": "2026-08-21T21:22:45Z",
             "owner": "getprobo",
             "repo": "probo",
-            "stars": 1304
+            "stars": 1307
           }
         },
         {
@@ -3909,7 +3894,7 @@
             "last_commit": "2026-08-06T17:50:27Z",
             "owner": "ethyca",
             "repo": "fides",
-            "stars": 477
+            "stars": 478
           }
         },
         {
@@ -3969,7 +3954,7 @@
             "last_commit": "2026-08-11T13:50:14Z",
             "owner": "LINCnil",
             "repo": "pia",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -4092,7 +4077,7 @@
             "archived": false,
             "id": 51397392,
             "language": "Python",
-            "last_commit": "2026-08-19T13:54:19Z",
+            "last_commit": "2026-08-21T16:18:00Z",
             "owner": "pytroll",
             "repo": "satpy",
             "stars": 1204
@@ -4137,7 +4122,7 @@
             "archived": false,
             "id": 4661744,
             "language": "Java",
-            "last_commit": "2026-08-19T06:29:12Z",
+            "last_commit": "2026-08-21T05:35:57Z",
             "owner": "geonetwork",
             "repo": "core-geonetwork",
             "stars": 513
@@ -4155,7 +4140,7 @@
             "last_commit": "2026-01-15T05:57:53Z",
             "owner": "sentinel-hub",
             "repo": "sentinel2-cloud-detector",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -4197,10 +4182,10 @@
             "archived": false,
             "id": 203819248,
             "language": "Python",
-            "last_commit": "2026-08-20T13:54:46Z",
+            "last_commit": "2026-08-21T13:02:02Z",
             "owner": "CS-SI",
             "repo": "eodag",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -4272,10 +4257,10 @@
             "archived": false,
             "id": 437531528,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-20T15:10:48Z",
+            "last_commit": "2026-08-21T12:48:33Z",
             "owner": "bopen",
             "repo": "sarsen",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -4302,7 +4287,7 @@
             "archived": false,
             "id": 161228639,
             "language": "C++",
-            "last_commit": "2026-08-20T13:44:58Z",
+            "last_commit": "2026-08-21T13:52:54Z",
             "owner": "ecmwf",
             "repo": "eccodes",
             "stars": 268
@@ -4380,7 +4365,7 @@
             "last_commit": "2026-08-14T15:04:52Z",
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -4395,7 +4380,7 @@
             "last_commit": "2026-08-19T18:23:22Z",
             "owner": "Open-EO",
             "repo": "openeo-python-client",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -4410,7 +4395,7 @@
             "last_commit": "2026-08-20T13:21:13Z",
             "owner": "senbox-org",
             "repo": "snap-engine",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -4467,10 +4452,10 @@
             "archived": false,
             "id": 904214730,
             "language": "Python",
-            "last_commit": "2026-08-20T15:00:12Z",
+            "last_commit": "2026-08-21T16:10:33Z",
             "owner": "ecmwf",
             "repo": "anemoi-core",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -4512,7 +4497,7 @@
             "archived": false,
             "id": 168213232,
             "language": "Python",
-            "last_commit": "2026-08-11T12:16:53Z",
+            "last_commit": "2026-08-21T10:47:50Z",
             "owner": "ecmwf",
             "repo": "eccodes-python",
             "stars": 137
@@ -4587,7 +4572,7 @@
             "archived": false,
             "id": 48321891,
             "language": "Java",
-            "last_commit": "2026-08-20T01:52:57Z",
+            "last_commit": "2026-08-21T18:48:20Z",
             "owner": "ldproxy",
             "repo": "ldproxy",
             "stars": 106
@@ -4605,7 +4590,7 @@
             "last_commit": "2026-08-17T07:13:44Z",
             "owner": "CDSETool",
             "repo": "CDSETool",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -4635,7 +4620,7 @@
             "last_commit": "2026-08-20T18:08:18Z",
             "owner": "actinia-org",
             "repo": "actinia-core",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -4722,7 +4707,7 @@
             "archived": false,
             "id": 2932773,
             "language": "Python",
-            "last_commit": "2026-08-20T22:17:36Z",
+            "last_commit": "2026-08-21T16:08:42Z",
             "owner": "camptocamp",
             "repo": "c2cgeoportal",
             "stars": 68
@@ -4737,7 +4722,7 @@
             "archived": false,
             "id": 285515027,
             "language": "C++",
-            "last_commit": "2026-08-20T12:14:27Z",
+            "last_commit": "2026-08-21T13:52:39Z",
             "owner": "ecmwf",
             "repo": "ecflow",
             "stars": 64
@@ -5013,7 +4998,7 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-20T15:21:54Z",
+            "last_commit": "2026-08-21T20:00:04Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
@@ -5088,7 +5073,7 @@
             "archived": false,
             "id": 109308060,
             "language": "Java",
-            "last_commit": "2026-08-20T11:02:45Z",
+            "last_commit": "2026-08-21T11:02:59Z",
             "owner": "openEHR",
             "repo": "archie",
             "stars": 67
@@ -5118,7 +5103,7 @@
             "archived": false,
             "id": 288718497,
             "language": "Java",
-            "last_commit": "2026-08-20T18:01:08Z",
+            "last_commit": "2026-08-21T11:40:26Z",
             "owner": "BBMRI-ERIC",
             "repo": "negotiator",
             "stars": 35
@@ -5343,7 +5328,7 @@
             "last_commit": "2026-08-18T08:01:42Z",
             "owner": "esig",
             "repo": "dss",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -5355,10 +5340,10 @@
             "archived": false,
             "id": 134143184,
             "language": "Java",
-            "last_commit": "2026-08-19T13:19:34Z",
+            "last_commit": "2026-08-21T06:38:34Z",
             "owner": "nordic-institute",
             "repo": "X-Road",
-            "stars": 832
+            "stars": 834
           }
         },
         {
@@ -5373,7 +5358,7 @@
             "last_commit": "2026-08-20T14:45:42Z",
             "owner": "eclipse-edc",
             "repo": "Connector",
-            "stars": 420
+            "stars": 421
           }
         },
         {
@@ -5460,7 +5445,7 @@
             "archived": false,
             "id": 12540844,
             "language": "Java",
-            "last_commit": "2026-08-19T18:49:05Z",
+            "last_commit": "2026-08-21T16:02:45Z",
             "owner": "halestudio",
             "repo": "hale",
             "stars": 156
@@ -5535,7 +5520,7 @@
             "archived": false,
             "id": 25913720,
             "language": "C++",
-            "last_commit": "2026-08-19T11:33:56Z",
+            "last_commit": "2026-08-21T12:35:05Z",
             "owner": "open-eid",
             "repo": "libdigidocpp",
             "stars": 108
@@ -5568,7 +5553,7 @@
             "last_commit": "2026-08-19T09:11:05Z",
             "owner": "sovity",
             "repo": "edc-ce",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -5583,6 +5568,21 @@
             "last_commit": "2026-08-19T09:11:05Z",
             "owner": "sovity",
             "repo": "edc-ce",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMMO",
+          "description": "Elementary Multiperspective Material Ontology developed by the European Materials Modelling Council.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189387204,
+            "language": "Python",
+            "last_commit": "2026-08-21T06:45:11Z",
+            "owner": "emmo-repo",
+            "repo": "EMMO",
             "stars": 92
           }
         },
@@ -5670,7 +5670,7 @@
             "archived": false,
             "id": 691886940,
             "language": "Mustache",
-            "last_commit": "2026-08-20T13:01:09Z",
+            "last_commit": "2026-08-21T08:40:10Z",
             "owner": "FIWARE",
             "repo": "data-space-connector",
             "stars": 56
@@ -5790,7 +5790,7 @@
             "archived": false,
             "id": 257818724,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T19:00:26Z",
+            "last_commit": "2026-08-21T16:47:36Z",
             "owner": "stellio-hub",
             "repo": "stellio-context-broker",
             "stars": 40
@@ -5808,7 +5808,7 @@
             "last_commit": "2026-07-16T10:50:39Z",
             "owner": "felleslosninger",
             "repo": "efm-asic",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -5850,7 +5850,7 @@
             "archived": false,
             "id": 499162267,
             "language": "TypeScript",
-            "last_commit": "2026-07-15T07:03:47Z",
+            "last_commit": "2026-08-21T11:14:58Z",
             "owner": "eclipse-edc",
             "repo": "DataDashboard",
             "stars": 30
@@ -5985,7 +5985,7 @@
             "archived": false,
             "id": 161469050,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:54:58Z",
+            "last_commit": "2026-08-21T14:49:18Z",
             "owner": "europeana",
             "repo": "portal.js",
             "stars": 18
@@ -6315,7 +6315,7 @@
             "last_commit": "2026-08-20T06:22:32Z",
             "owner": "ckan",
             "repo": "ckan",
-            "stars": 5099
+            "stars": 5101
           }
         },
         {
@@ -6342,7 +6342,7 @@
             "archived": false,
             "id": 19141754,
             "language": "Python",
-            "last_commit": "2026-08-20T15:13:47Z",
+            "last_commit": "2026-08-21T20:36:39Z",
             "owner": "opendatateam",
             "repo": "udata",
             "stars": 268
@@ -6375,7 +6375,7 @@
             "last_commit": "2022-06-14T08:50:22Z",
             "owner": "eurostat",
             "repo": "searoute",
-            "stars": 247
+            "stars": 248
           }
         },
         {
@@ -6447,7 +6447,7 @@
             "archived": false,
             "id": 2890627,
             "language": "Python",
-            "last_commit": "2026-08-12T11:12:39Z",
+            "last_commit": "2026-08-21T08:09:40Z",
             "owner": "ckan",
             "repo": "ckanext-harvest",
             "stars": 142
@@ -6510,7 +6510,7 @@
             "last_commit": "2026-06-17T15:44:16Z",
             "owner": "SEMICeu",
             "repo": "DCAT-AP",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -6786,7 +6786,7 @@
             "last_commit": "2026-01-09T19:11:45Z",
             "owner": "adorsys",
             "repo": "open-banking-gateway",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -6798,7 +6798,7 @@
             "archived": false,
             "id": 74504378,
             "language": "Java",
-            "last_commit": "2026-08-20T18:33:15Z",
+            "last_commit": "2026-08-21T22:19:16Z",
             "owner": "prowide",
             "repo": "prowide-core",
             "stars": 293
@@ -6828,7 +6828,7 @@
             "archived": false,
             "id": 257418273,
             "language": "Java",
-            "last_commit": "2026-08-18T19:14:26Z",
+            "last_commit": "2026-08-21T13:13:12Z",
             "owner": "prowide",
             "repo": "prowide-iso20022",
             "stars": 235
@@ -6843,7 +6843,7 @@
             "archived": false,
             "id": 84074853,
             "language": "Java",
-            "last_commit": "2026-08-04T12:30:15Z",
+            "last_commit": "2026-08-21T12:29:19Z",
             "owner": "hbci4j",
             "repo": "hbci4java",
             "stars": 185
@@ -7194,7 +7194,7 @@
             "archived": false,
             "id": 893464610,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T12:24:49Z",
+            "last_commit": "2026-08-21T20:07:58Z",
             "owner": "OP-TED",
             "repo": "ted-open-data",
             "stars": 10
@@ -7263,7 +7263,7 @@
             "last_commit": "2026-08-19T22:52:31Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2210
+            "stars": 2211
           }
         },
         {
@@ -7290,10 +7290,10 @@
             "archived": false,
             "id": 22851787,
             "language": "Java",
-            "last_commit": "2026-08-20T21:57:07Z",
+            "last_commit": "2026-08-21T20:14:35Z",
             "owner": "CS-SI",
             "repo": "Orekit",
-            "stars": 288
+            "stars": 290
           }
         },
         {
@@ -7320,7 +7320,7 @@
             "archived": false,
             "id": 142595776,
             "language": "Go",
-            "last_commit": "2026-08-20T15:35:27Z",
+            "last_commit": "2026-08-21T20:15:40Z",
             "owner": "interuss",
             "repo": "dss",
             "stars": 157
@@ -7401,7 +7401,7 @@
             "archived": false,
             "id": 1057262827,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:35:26Z",
+            "last_commit": "2026-08-21T11:57:08Z",
             "owner": "open-dpp",
             "repo": "open-dpp",
             "stars": 28
@@ -7431,7 +7431,7 @@
             "archived": false,
             "id": 665471966,
             "language": "Java",
-            "last_commit": "2026-08-18T12:52:21Z",
+            "last_commit": "2026-08-21T05:57:19Z",
             "owner": "eclipse-tractusx",
             "repo": "puris",
             "stars": 21
@@ -7587,10 +7587,10 @@
             "archived": false,
             "id": 108592307,
             "language": "Python",
-            "last_commit": "2026-08-20T18:13:56Z",
+            "last_commit": "2026-08-21T14:40:25Z",
             "owner": "eclipse-sumo",
             "repo": "sumo",
-            "stars": 4136
+            "stars": 4140
           }
         },
         {
@@ -7602,7 +7602,7 @@
             "archived": false,
             "id": 2067253,
             "language": "Java",
-            "last_commit": "2026-08-20T14:17:09Z",
+            "last_commit": "2026-08-21T16:06:10Z",
             "owner": "opentripplanner",
             "repo": "OpenTripPlanner",
             "stars": 2717
@@ -7617,7 +7617,7 @@
             "archived": false,
             "id": 752620908,
             "language": "Lua",
-            "last_commit": "2026-08-20T22:01:09Z",
+            "last_commit": "2026-08-21T21:12:38Z",
             "owner": "public-transport",
             "repo": "transitous",
             "stars": 688
@@ -7632,7 +7632,7 @@
             "archived": false,
             "id": 203611792,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T22:37:22Z",
+            "last_commit": "2026-08-21T22:23:16Z",
             "owner": "OpenRailAssociation",
             "repo": "osrd",
             "stars": 651
@@ -7647,10 +7647,10 @@
             "archived": false,
             "id": 255657224,
             "language": "C++",
-            "last_commit": "2026-08-20T16:46:10Z",
+            "last_commit": "2026-08-21T12:02:07Z",
             "owner": "motis-project",
             "repo": "motis",
-            "stars": 555
+            "stars": 556
           }
         },
         {
@@ -7737,7 +7737,7 @@
             "archived": false,
             "id": 32916096,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:37:11Z",
+            "last_commit": "2026-08-21T11:45:42Z",
             "owner": "HSLdevcom",
             "repo": "digitransit-ui",
             "stars": 266
@@ -7767,7 +7767,7 @@
             "archived": false,
             "id": 35875178,
             "language": "C",
-            "last_commit": "2026-07-09T12:00:32Z",
+            "last_commit": "2026-08-21T11:33:22Z",
             "owner": "riebl",
             "repo": "vanetza",
             "stars": 226
@@ -7857,7 +7857,7 @@
             "archived": false,
             "id": 320647433,
             "language": "Python",
-            "last_commit": "2026-07-03T12:08:00Z",
+            "last_commit": "2026-08-21T18:19:07Z",
             "owner": "public-transport",
             "repo": "transport-apis",
             "stars": 99
@@ -7872,7 +7872,7 @@
             "archived": false,
             "id": 216804770,
             "language": "Shell",
-            "last_commit": "2026-08-20T16:11:55Z",
+            "last_commit": "2026-08-21T09:43:23Z",
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "OSDM",
             "stars": 93
@@ -8279,10 +8279,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:38:32.275Z",
+    "last_updated": "2026-08-21T22:35:33.895Z",
     "original_repository": "GeiserX/awesome-europe",
     "original_repository_id": 1188844769,
-    "original_repository_sha": "a278de3d3a1a41451a36a9546ade8d457ec804f0",
+    "original_repository_sha": "2659f43514f91ada1b734f32ad93dd4d25641070",
     "enhanced_repository": "enhansome/enhansome-europe",
     "enhanced_repository_description": null,
     "title": "Awesome europe with stars"
