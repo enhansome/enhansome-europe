@@ -16,7 +16,8 @@
             "owner": "act-rules",
             "repo": "act-rules.github.io",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Siteimprove",
             "repo": "alfa",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "BIK-BITV",
             "repo": "BIK-Web-Test",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "accessibility-luxembourg",
             "repo": "simplA11yPDFCrawler",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "accessibility-luxembourg",
             "repo": "ReferentielAccessibiliteWeb",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "accessibility-luxembourg",
             "repo": "ReferentielAccessibiliteMobile",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "accessibility-luxembourg",
             "repo": "simplA11yMonit",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sergordienko",
             "repo": "eu-accessibility-mapping",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Accessibility"
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 258191576,
             "language": "Dart",
-            "last_commit": "2026-08-26T19:30:40Z",
+            "last_commit": "2026-08-27T17:24:46Z",
             "owner": "openfoodfacts",
             "repo": "smooth-app",
             "stars": 1405
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-27T09:53:20Z",
+            "last_commit": "2026-08-27T20:21:34Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1142
-          }
+            "stars": 1145
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-python",
             "stars": 464
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "openfoodfacts",
             "repo": "robotoff",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "food-nutrients",
             "repo": "nutri-score",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "openefsa",
             "repo": "catalogue-browser",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "openfoodfacts",
             "repo": "folksonomy_api",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ec-jrc",
             "repo": "cbm",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "Sen4CAP",
             "repo": "Sen4CAP",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Agriculture and Food Safety"
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 47451451,
             "language": "Python",
-            "last_commit": "2026-08-27T11:33:41Z",
+            "last_commit": "2026-08-28T05:54:10Z",
             "owner": "opensanctions",
             "repo": "opensanctions",
             "stars": 789
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "alephdata",
             "repo": "memorious",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "alephdata",
             "repo": "followthemoney",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "opensanctions",
             "repo": "nomenklatura",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -342,8 +363,9 @@
             "last_commit": "2026-08-27T06:42:45Z",
             "owner": "opensanctions",
             "repo": "yente",
-            "stars": 171
-          }
+            "stars": 172
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -357,8 +379,9 @@
             "last_commit": "2026-08-26T20:05:17Z",
             "owner": "openaleph",
             "repo": "openaleph",
-            "stars": 121
-          }
+            "stars": 122
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "openownership",
             "repo": "data-standard",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "ggravlingen",
             "repo": "pygleif",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Anti-Money Laundering and Compliance"
@@ -408,8 +433,9 @@
             "last_commit": "2026-08-21T11:57:29Z",
             "owner": "lineofflight",
             "repo": "frankfurter",
-            "stars": 1807
-          }
+            "stars": 1811
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "florianv",
             "repo": "swap",
             "stars": 1339
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "alexprengere",
             "repo": "currencyconverter",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "RubyMoney",
             "repo": "eu_central_bank",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "expersso",
             "repo": "ecb",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "datasets",
             "repo": "euribor",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Central Banking and Monetary Policy"
@@ -505,7 +536,8 @@
             "owner": "rgllm",
             "repo": "awesome-portugal-data",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "GeiserX",
             "repo": "awesome-spain",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "italia",
             "repo": "awesome-italian-public-datasets",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "bundestag",
             "repo": "awesome-germany",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Country-Specific Awesome Lists"
@@ -567,11 +602,12 @@
             "archived": false,
             "id": 162200234,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:36:02Z",
+            "last_commit": "2026-08-28T02:33:01Z",
             "owner": "OpenCTI-Platform",
             "repo": "opencti",
-            "stars": 9857
-          }
+            "stars": 9862
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "MISP",
             "repo": "MISP",
             "stars": 6490
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -600,8 +637,9 @@
             "last_commit": "2026-08-19T04:24:45Z",
             "owner": "altcha-org",
             "repo": "altcha",
-            "stars": 2710
-          }
+            "stars": 2712
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "TheHive-Project",
             "repo": "Cortex",
             "stars": 1618
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "CERT-Polska",
             "repo": "drakvuf-sandbox",
             "stars": 1335
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -642,11 +682,12 @@
             "archived": false,
             "id": 571612478,
             "language": "Python",
-            "last_commit": "2026-08-27T11:11:05Z",
+            "last_commit": "2026-08-27T21:35:47Z",
             "owner": "CERT-Polska",
             "repo": "Artemis",
             "stars": 1199
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -657,11 +698,12 @@
             "archived": false,
             "id": 257208943,
             "language": "Python",
-            "last_commit": "2026-08-19T12:54:32Z",
+            "last_commit": "2026-08-27T15:10:48Z",
             "owner": "ail-project",
             "repo": "ail-framework",
-            "stars": 1001
-          }
+            "stars": 1003
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -672,11 +714,12 @@
             "archived": false,
             "id": 98115418,
             "language": "Python",
-            "last_commit": "2026-08-25T18:43:48Z",
+            "last_commit": "2026-08-27T14:45:55Z",
             "owner": "Lookyloo",
             "repo": "lookyloo",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -690,8 +733,9 @@
             "last_commit": "2026-08-20T06:05:35Z",
             "owner": "MISP",
             "repo": "misp-warninglists",
-            "stars": 647
-          }
+            "stars": 648
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "MISP",
             "repo": "misp-galaxy",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -717,11 +762,12 @@
             "archived": false,
             "id": 192614260,
             "language": "Python",
-            "last_commit": "2026-08-27T10:53:48Z",
+            "last_commit": "2026-08-28T06:04:23Z",
             "owner": "OpenCTI-Platform",
             "repo": "connectors",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -732,11 +778,12 @@
             "archived": false,
             "id": 572446652,
             "language": "Python",
-            "last_commit": "2026-08-27T09:35:55Z",
+            "last_commit": "2026-08-27T21:25:15Z",
             "owner": "vulnerability-lookup",
             "repo": "vulnerability-lookup",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "TheHive-Project",
             "repo": "Cortex-Analyzers",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -762,11 +810,12 @@
             "archived": false,
             "id": 18831421,
             "language": "Python",
-            "last_commit": "2026-08-25T23:11:50Z",
+            "last_commit": "2026-08-27T16:03:33Z",
             "owner": "MISP",
             "repo": "PyMISP",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "CERT-Polska",
             "repo": "karton",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "CERT-Polska",
             "repo": "mwdb-core",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -807,11 +858,12 @@
             "archived": false,
             "id": 51930975,
             "language": "Python",
-            "last_commit": "2026-08-24T04:41:32Z",
+            "last_commit": "2026-08-27T21:01:44Z",
             "owner": "MISP",
             "repo": "misp-modules",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -826,7 +878,8 @@
             "owner": "CERT-Polska",
             "repo": "malduck",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -837,11 +890,12 @@
             "archived": false,
             "id": 46477798,
             "language": "Python",
-            "last_commit": "2026-08-26T05:22:19Z",
+            "last_commit": "2026-08-28T05:07:08Z",
             "owner": "MISP",
             "repo": "misp-taxonomies",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -856,7 +910,8 @@
             "owner": "pandora-analysis",
             "repo": "pandora",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -867,11 +922,12 @@
             "archived": false,
             "id": 441711963,
             "language": "Python",
-            "last_commit": "2026-08-27T10:18:06Z",
+            "last_commit": "2026-08-27T13:56:27Z",
             "owner": "flowintel",
             "repo": "flowintel",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -886,7 +942,8 @@
             "owner": "CERT-Polska",
             "repo": "n6",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -901,7 +958,8 @@
             "owner": "CERT-Polska",
             "repo": "hfinger",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -916,7 +974,8 @@
             "owner": "ail-project",
             "repo": "lacus",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -931,7 +990,8 @@
             "owner": "CIRCL",
             "repo": "bgp-ranking",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1006,8 @@
             "owner": "MISP",
             "repo": "misp-objects",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1022,8 @@
             "owner": "typosquatter",
             "repo": "ail-typo-squatting",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1038,8 @@
             "owner": "gocsaf",
             "repo": "csaf",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1054,8 @@
             "owner": "MISP",
             "repo": "misp-stix",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1070,8 @@
             "owner": "gcve-eu",
             "repo": "gcve.eu",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1086,8 @@
             "owner": "gcve-eu",
             "repo": "gcve",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1102,8 @@
             "owner": "SCHUNK-SE-Co-KG",
             "repo": "TARATool",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1118,8 @@
             "owner": "CyberismoCom",
             "repo": "module-eu-cra",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Cybersecurity"
@@ -1068,11 +1136,12 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-27T02:11:33Z",
+            "last_commit": "2026-08-28T02:56:14Z",
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1808
-          }
+            "stars": 1809
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1083,11 +1152,12 @@
             "archived": false,
             "id": 487492,
             "language": "Perl",
-            "last_commit": "2026-08-27T11:26:23Z",
+            "last_commit": "2026-08-27T16:57:40Z",
             "owner": "mysociety",
             "repo": "fixmystreet",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1098,11 +1168,12 @@
             "archived": false,
             "id": 1125389,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:04:16Z",
+            "last_commit": "2026-08-27T16:25:56Z",
             "owner": "mysociety",
             "repo": "alaveteli",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1188,8 @@
             "owner": "okfde",
             "repo": "froide",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1204,8 @@
             "owner": "everypolitician",
             "repo": "everypolitician-data",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1220,8 @@
             "owner": "EUSurvey",
             "repo": "EUSURVEY",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1236,8 @@
             "owner": "okfde",
             "repo": "fragdenstaat_de",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1252,8 @@
             "owner": "HowTheyVote",
             "repo": "howtheyvote",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1268,8 @@
             "owner": "parltrack",
             "repo": "parltrack",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1284,8 @@
             "owner": "citizenos",
             "repo": "citizenos-api",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1300,8 @@
             "owner": "HowTheyVote",
             "repo": "data",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1316,8 @@
             "owner": "AKVorrat",
             "repo": "dearmep",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1332,8 @@
             "owner": "rOpenGov",
             "repo": "europarl",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Democracy and Governance"
@@ -1269,11 +1350,12 @@
             "archived": false,
             "id": 844279282,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:47:08Z",
+            "last_commit": "2026-08-27T17:35:39Z",
             "owner": "verifywise-ai",
             "repo": "verifywise",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1370,8 @@
             "owner": "compl-ai",
             "repo": "compl-ai",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1386,8 @@
             "owner": "Hiepler",
             "repo": "EuConform",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1402,8 @@
             "owner": "digital-services-act",
             "repo": "transparency-database",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1418,8 @@
             "owner": "SonnyLabs",
             "repo": "EU_AI_ACT_MCP",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1434,8 @@
             "owner": "airblackbox",
             "repo": "airblackbox",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1362,8 +1449,9 @@
             "last_commit": "2025-11-11T11:08:40Z",
             "owner": "aai-institute",
             "repo": "practical-ai-act",
-            "stars": 20
-          }
+            "stars": 21
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1466,8 @@
             "owner": "morganrcu",
             "repo": "awesome-eu-ai-act",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1482,8 @@
             "owner": "visenger",
             "repo": "aiact-engineering",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1498,8 @@
             "owner": "aloosley",
             "repo": "techops",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1514,8 @@
             "owner": "aai-institute",
             "repo": "AI-SBOM",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1530,8 @@
             "owner": "CheckFirstHQ",
             "repo": "RADAR",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1449,11 +1542,12 @@
             "archived": false,
             "id": 952106577,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-27T10:46:52Z",
+            "last_commit": "2026-08-28T05:52:34Z",
             "owner": "Principled-Evolution",
             "repo": "gopal",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1464,11 +1558,12 @@
             "archived": false,
             "id": 1137475130,
             "language": "Python",
-            "last_commit": "2026-08-14T07:47:38Z",
+            "last_commit": "2026-08-27T14:48:41Z",
             "owner": "Venturalitica",
             "repo": "venturalitica-sdk",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Digital Regulation"
@@ -1485,11 +1580,12 @@
             "archived": false,
             "id": 10994345,
             "language": "C++",
-            "last_commit": "2026-08-27T08:31:14Z",
+            "last_commit": "2026-08-28T04:36:43Z",
             "owner": "root-project",
             "repo": "root",
-            "stars": 3289
-          }
+            "stars": 3291
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1500,11 +1596,12 @@
             "archived": false,
             "id": 2113067,
             "language": "Python",
-            "last_commit": "2026-08-26T13:44:13Z",
+            "last_commit": "2026-08-27T14:16:51Z",
             "owner": "indico",
             "repo": "indico",
             "stars": 2100
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1515,11 +1612,12 @@
             "archived": false,
             "id": 3743376,
             "language": "Java",
-            "last_commit": "2026-08-26T11:46:13Z",
+            "last_commit": "2026-08-27T19:36:23Z",
             "owner": "DSpace",
             "repo": "DSpace",
-            "stars": 1091
-          }
+            "stars": 1092
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1632,8 @@
             "owner": "zenodo",
             "repo": "zenodo",
             "stars": 1029
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1548,8 +1647,9 @@
             "last_commit": "2026-08-09T20:52:47Z",
             "owner": "Geant4",
             "repo": "geant4",
-            "stars": 844
-          }
+            "stars": 845
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1664,8 @@
             "owner": "cernopendata",
             "repo": "opendata.cern.ch",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1680,8 @@
             "owner": "jhpoelen",
             "repo": "zenodo-upload",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1594,7 +1696,8 @@
             "owner": "hsf-training",
             "repo": "cpluspluscourse",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1605,11 +1708,12 @@
             "archived": false,
             "id": 247984718,
             "language": "Python",
-            "last_commit": "2026-08-24T14:38:39Z",
+            "last_commit": "2026-08-27T15:05:16Z",
             "owner": "zenodo",
             "repo": "zenodo-rdm",
-            "stars": 297
-          }
+            "stars": 298
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1728,8 @@
             "owner": "dvolgyes",
             "repo": "zenodo_get",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1638,8 +1743,9 @@
             "last_commit": "2026-04-22T09:52:04Z",
             "owner": "openfisca",
             "repo": "openfisca-core",
-            "stars": 235
-          }
+            "stars": 236
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1654,7 +1760,8 @@
             "owner": "digital-preservation",
             "repo": "csv-validator",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1665,11 +1772,12 @@
             "archived": false,
             "id": 188058383,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T17:22:48Z",
+            "last_commit": "2026-08-27T19:03:06Z",
             "owner": "inveniosoftware",
             "repo": "invenio-app-rdm",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1792,8 @@
             "owner": "reanahub",
             "repo": "reana",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1808,8 @@
             "owner": "OpenAPC",
             "repo": "openapc-de",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1713,8 +1823,9 @@
             "last_commit": "2026-03-30T14:24:06Z",
             "owner": "CERN",
             "repo": "awesome-cern",
-            "stars": 125
-          }
+            "stars": 126
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1840,8 @@
             "owner": "gmazzamuto",
             "repo": "europasscv",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1856,8 @@
             "owner": "GEANT",
             "repo": "CAT",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1872,8 @@
             "owner": "indico",
             "repo": "newdle",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1888,8 @@
             "owner": "elixir-europe",
             "repo": "rdmkit",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1785,11 +1900,12 @@
             "archived": false,
             "id": 4259466,
             "language": "Java",
-            "last_commit": "2026-08-26T14:22:58Z",
+            "last_commit": "2026-08-27T15:34:01Z",
             "owner": "keeps",
             "repo": "roda",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1920,8 @@
             "owner": "RDA-DMP-Common",
             "repo": "RDA-DMP-Common-Standard",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1936,8 @@
             "owner": "inspirehep",
             "repo": "inspire-next",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1952,8 @@
             "owner": "eblondel",
             "repo": "zen4R",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1968,8 @@
             "owner": "keeps",
             "repo": "dbptk-developer",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1984,8 @@
             "owner": "cernanalysispreservation",
             "repo": "analysispreservation.cern.ch",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1879,7 +2000,8 @@
             "owner": "HEPData",
             "repo": "hepdata",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1894,7 +2016,8 @@
             "owner": "European-XFEL",
             "repo": "Karabo",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1909,7 +2032,8 @@
             "owner": "EUDAT-B2SHARE",
             "repo": "b2share",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1924,7 +2048,8 @@
             "owner": "openaire",
             "repo": "iis",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1939,7 +2064,8 @@
             "owner": "openaire",
             "repo": "guidelines",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1954,7 +2080,8 @@
             "owner": "CERNDocumentServer",
             "repo": "cds-videos",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1969,7 +2096,8 @@
             "owner": "europass",
             "repo": "europasscv-parser-js",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1984,7 +2112,8 @@
             "owner": "openaire",
             "repo": "guidelines-literature-repositories",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -1999,7 +2128,8 @@
             "owner": "alexfikl",
             "repo": "erc-stg",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2014,7 +2144,8 @@
             "owner": "pangeo-data",
             "repo": "pangeo-eosc",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2028,8 +2159,9 @@
             "last_commit": "2026-05-25T10:21:46Z",
             "owner": "HumanBrainProject",
             "repo": "ebrains-storage",
-            "stars": 11
-          }
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2044,7 +2176,8 @@
             "owner": "EBI-Metagenomics",
             "repo": "emgapi",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2059,7 +2192,8 @@
             "owner": "erasmus-without-paper",
             "repo": "ewp-specs-api-iias",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Education and Research"
@@ -2076,11 +2210,12 @@
             "archived": false,
             "id": 594075873,
             "language": "Python",
-            "last_commit": "2026-07-23T19:09:42Z",
+            "last_commit": "2026-08-27T18:48:10Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-doc-architecture-and-reference-framework",
             "stars": 747
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2091,11 +2226,12 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T10:43:20Z",
+            "last_commit": "2026-08-28T05:44:13Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
-            "stars": 304
-          }
+            "stars": 305
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2106,11 +2242,12 @@
             "archived": false,
             "id": 714965358,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T13:36:45Z",
+            "last_commit": "2026-08-27T22:44:47Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-app-android-wallet-ui",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2262,8 @@
             "owner": "procivis",
             "repo": "one-core",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2278,8 @@
             "owner": "procivis",
             "repo": "one-wallet",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2294,8 @@
             "owner": "Sphereon-Opensource",
             "repo": "OID4VC",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2310,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-app-ios-wallet-ui",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2326,8 @@
             "owner": "Sphereon-Opensource",
             "repo": "SSI-SDK",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2342,8 @@
             "owner": "EWC-consortium",
             "repo": "eudi-wallet-rfcs",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2211,11 +2354,12 @@
             "archived": false,
             "id": 442090807,
             "language": "Dart",
-            "last_commit": "2026-08-27T07:02:07Z",
+            "last_commit": "2026-08-27T13:27:21Z",
             "owner": "TalaoDAO",
             "repo": "AltMe",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2374,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-android-wallet-core",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2390,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-srv-verifier-endpoint",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2406,8 @@
             "owner": "grnet",
             "repo": "eidas-keycloak-extension",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2422,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-jvm-openid4vci-kt",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2438,8 @@
             "owner": "apple",
             "repo": "eidas",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2454,8 @@
             "owner": "Governikus",
             "repo": "eidas-middleware",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2316,11 +2466,12 @@
             "archived": false,
             "id": 708535388,
             "language": "Swift",
-            "last_commit": "2026-08-26T12:11:39Z",
+            "last_commit": "2026-08-27T15:30:34Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-ios-wallet-kit",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2486,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-srv-pid-issuer",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2346,11 +2498,12 @@
             "archived": false,
             "id": 653594228,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T19:42:51Z",
+            "last_commit": "2026-08-27T17:23:34Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-web-verifier",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2518,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-srv-web-issuing-eudiw-py",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2534,8 @@
             "owner": "PeculiarVentures",
             "repo": "tl-create",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2550,8 @@
             "owner": "moll",
             "repo": "js-undersign",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2406,11 +2562,12 @@
             "archived": false,
             "id": 642355309,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T13:23:46Z",
+            "last_commit": "2026-08-27T13:23:12Z",
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-jvm-openid4vp-kt",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2582,8 @@
             "owner": "eu-digital-identity-wallet",
             "repo": "eudi-lib-jvm-sdjwt-kt",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2598,8 @@
             "owner": "IdentityPython",
             "repo": "pyMDOC-CBOR",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2614,8 @@
             "owner": "impierce",
             "repo": "ssi-agent",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2470,7 +2630,8 @@
             "owner": "enablebanking",
             "repo": "open_banking_eidas_broker",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2485,7 +2646,8 @@
             "owner": "whoidentifies-me",
             "repo": "api",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "eIDAS and Digital Identity"
@@ -2505,8 +2667,9 @@
             "last_commit": "2026-08-25T20:50:39Z",
             "owner": "ZUGFeRD",
             "repo": "mustangproject",
-            "stars": 452
-          }
+            "stars": 453
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2517,11 +2680,12 @@
             "archived": false,
             "id": 287969006,
             "language": "PHP",
-            "last_commit": "2026-08-27T03:33:22Z",
+            "last_commit": "2026-08-28T02:55:36Z",
             "owner": "horstoeko",
             "repo": "zugferd",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2532,11 +2696,12 @@
             "archived": false,
             "id": 14122610,
             "language": "C#",
-            "last_commit": "2026-08-21T19:22:36Z",
+            "last_commit": "2026-08-27T19:44:25Z",
             "owner": "stephanstapel",
             "repo": "ZUGFeRD-csharp",
-            "stars": 393
-          }
+            "stars": 394
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2551,7 +2716,8 @@
             "owner": "akretion",
             "repo": "factur-x",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2566,7 +2732,8 @@
             "owner": "ConnectingEurope",
             "repo": "eInvoicing-EN16931",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2581,7 +2748,8 @@
             "owner": "phax",
             "repo": "phase4",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2596,7 +2764,8 @@
             "owner": "gflohr",
             "repo": "e-invoice-eu",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2607,11 +2776,12 @@
             "archived": false,
             "id": 32790911,
             "language": "Java",
-            "last_commit": "2026-08-26T19:35:40Z",
+            "last_commit": "2026-08-27T22:25:16Z",
             "owner": "phax",
             "repo": "phoss-smp",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2626,7 +2796,8 @@
             "owner": "josemmo",
             "repo": "einvoicing",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2641,7 +2812,8 @@
             "owner": "pretix",
             "repo": "python-drafthorse",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2656,7 +2828,8 @@
             "owner": "jcthiele",
             "repo": "OpenXRechnungToolbox",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2671,7 +2844,8 @@
             "owner": "OpenPEPPOL",
             "repo": "peppol-bis-invoice-3",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2686,7 +2860,8 @@
             "owner": "OxalisCommunity",
             "repo": "oxalis",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2701,7 +2876,8 @@
             "owner": "phax",
             "repo": "ph-ubl",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2716,7 +2892,8 @@
             "owner": "num-num",
             "repo": "ubl-invoice",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2731,7 +2908,8 @@
             "owner": "phax",
             "repo": "ph-schematron",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2746,7 +2924,8 @@
             "owner": "phax",
             "repo": "phive",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2940,8 @@
             "owner": "OxalisCommunity",
             "repo": "oxalis-ng",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2772,11 +2952,12 @@
             "archived": false,
             "id": 32777313,
             "language": "Java",
-            "last_commit": "2026-08-24T10:22:54Z",
+            "last_commit": "2026-08-27T18:11:16Z",
             "owner": "phax",
             "repo": "peppol-commons",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2787,11 +2968,12 @@
             "archived": false,
             "id": 269453397,
             "language": "Java",
-            "last_commit": "2026-08-24T06:03:17Z",
+            "last_commit": "2026-08-27T18:12:48Z",
             "owner": "phax",
             "repo": "phive-rules",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2802,11 +2984,12 @@
             "archived": false,
             "id": 167360653,
             "language": "Java",
-            "last_commit": "2026-08-23T20:10:36Z",
+            "last_commit": "2026-08-27T18:14:31Z",
             "owner": "phax",
             "repo": "en16931-cii2ubl",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2817,11 +3000,12 @@
             "archived": false,
             "id": 957151951,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:46:36Z",
+            "last_commit": "2026-08-27T22:41:25Z",
             "owner": "recommand",
             "repo": "recommand-peppol",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2836,7 +3020,8 @@
             "owner": "phax",
             "repo": "phoss-directory",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2851,7 +3036,8 @@
             "owner": "phax",
             "repo": "peppol-reporting",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2866,7 +3052,8 @@
             "owner": "esvit",
             "repo": "einvoicing",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2881,7 +3068,24 @@
             "owner": "easybill",
             "repo": "e-invoicing",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
+        },
+        {
+          "node_type": "item",
+          "title": "factur-x (TypeScript)",
+          "description": "TypeScript library that generates Factur-X, ZUGFeRD, and XRechnung CII XML and embeds it into PDF/A-3 invoices, with XSD validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1169574526,
+            "language": "TypeScript",
+            "last_commit": "2026-08-27T19:29:58Z",
+            "owner": "StackForge-EU",
+            "repo": "factur-x",
+            "stars": 15
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2896,7 +3100,8 @@
             "owner": "gflohr",
             "repo": "e-invoice-eu-validator",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Electronic Invoicing"
@@ -2913,11 +3118,12 @@
             "archived": false,
             "id": 59370571,
             "language": "Python",
-            "last_commit": "2026-08-26T20:41:29Z",
+            "last_commit": "2026-08-27T14:19:34Z",
             "owner": "electricitymaps",
             "repo": "electricitymaps-contrib",
-            "stars": 4025
-          }
+            "stars": 4026
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2928,11 +3134,12 @@
             "archived": false,
             "id": 49414256,
             "language": "Python",
-            "last_commit": "2026-08-27T08:33:01Z",
+            "last_commit": "2026-08-27T13:47:49Z",
             "owner": "PyPSA",
             "repo": "PyPSA",
-            "stars": 2116
-          }
+            "stars": 2117
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2947,7 +3154,8 @@
             "owner": "EnergieID",
             "repo": "entsoe-py",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2962,7 +3170,8 @@
             "owner": "PyPSA",
             "repo": "pypsa-eur",
             "stars": 608
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2976,8 +3185,9 @@
             "last_commit": "2025-12-29T23:12:38Z",
             "owner": "custom-components",
             "repo": "nordpool",
-            "stars": 575
-          }
+            "stars": 576
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -2988,11 +3198,12 @@
             "archived": false,
             "id": 46793877,
             "language": "Python",
-            "last_commit": "2026-08-24T07:44:17Z",
+            "last_commit": "2026-08-27T16:06:59Z",
             "owner": "oemof",
             "repo": "oemof-solph",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3007,7 +3218,8 @@
             "owner": "PyPSA",
             "repo": "atlite",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3022,7 +3234,8 @@
             "owner": "calliope-project",
             "repo": "calliope",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3037,7 +3250,8 @@
             "owner": "JaccoR",
             "repo": "hass-entso-e",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3052,7 +3266,8 @@
             "owner": "ESMValGroup",
             "repo": "ESMValTool",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3063,11 +3278,12 @@
             "archived": false,
             "id": 350276805,
             "language": "Python",
-            "last_commit": "2026-08-27T09:16:09Z",
+            "last_commit": "2026-08-27T12:36:01Z",
             "owner": "PyPSA",
             "repo": "linopy",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3298,8 @@
             "owner": "PyPSA",
             "repo": "powerplantmatching",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3093,11 +3310,12 @@
             "archived": false,
             "id": 318520609,
             "language": "Python",
-            "last_commit": "2026-08-26T22:32:17Z",
+            "last_commit": "2026-08-27T16:31:19Z",
             "owner": "FlexMeasures",
             "repo": "flexmeasures",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3108,11 +3326,12 @@
             "archived": false,
             "id": 105284146,
             "language": "Java",
-            "last_commit": "2026-08-27T11:09:55Z",
+            "last_commit": "2026-08-27T19:00:07Z",
             "owner": "powsybl",
             "repo": "powsybl-core",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3123,11 +3342,12 @@
             "archived": false,
             "id": 136322941,
             "language": "Python",
-            "last_commit": "2026-08-27T10:35:36Z",
+            "last_commit": "2026-08-27T11:47:08Z",
             "owner": "OpenEnergyPlatform",
             "repo": "ontology",
-            "stars": 161
-          }
+            "stars": 162
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3142,7 +3362,8 @@
             "owner": "PyPSA",
             "repo": "technology-data",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3157,7 +3378,8 @@
             "owner": "powsybl",
             "repo": "powsybl-diagram",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3172,7 +3394,8 @@
             "owner": "OSGP",
             "repo": "open-smart-grid-platform",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3187,7 +3410,8 @@
             "owner": "energywebfoundation",
             "repo": "origin",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3202,7 +3426,8 @@
             "owner": "spine-tools",
             "repo": "Spine-Toolbox",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3217,7 +3442,8 @@
             "owner": "energy-modelling-toolkit",
             "repo": "Dispa-SET",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3232,7 +3458,8 @@
             "owner": "spine-tools",
             "repo": "SpineOpt.jl",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3243,11 +3470,12 @@
             "archived": false,
             "id": 212108030,
             "language": "Java",
-            "last_commit": "2026-08-27T10:57:24Z",
+            "last_commit": "2026-08-27T15:10:25Z",
             "owner": "powsybl",
             "repo": "powsybl-open-loadflow",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3262,7 +3490,8 @@
             "owner": "OpenEnergyPlatform",
             "repo": "oeplatform",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3277,7 +3506,8 @@
             "owner": "powsybl",
             "repo": "powsybl-open-rao",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Energy and Electricity"
@@ -3297,8 +3527,9 @@
             "last_commit": "2026-08-24T06:20:41Z",
             "owner": "nager",
             "repo": "Nager.Date",
-            "stars": 1397
-          }
+            "stars": 1398
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3313,7 +3544,8 @@
             "owner": "commenthol",
             "repo": "date-holidays",
             "stars": 1098
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3328,7 +3560,8 @@
             "owner": "arthurdejong",
             "repo": "python-stdnum",
             "stars": 591
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3342,8 +3575,9 @@
             "last_commit": "2025-12-03T19:45:38Z",
             "owner": "globalcitizen",
             "repo": "php-iban",
-            "stars": 508
-          }
+            "stars": 509
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3358,7 +3592,8 @@
             "owner": "arturmkrtchyan",
             "repo": "iban4j",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3373,7 +3608,8 @@
             "owner": "mdomke",
             "repo": "schwifty",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3388,7 +3624,8 @@
             "owner": "Simplify",
             "repo": "ibantools",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3399,11 +3636,12 @@
             "archived": false,
             "id": 115293665,
             "language": "C#",
-            "last_commit": "2026-08-25T20:33:10Z",
+            "last_commit": "2026-08-27T18:44:53Z",
             "owner": "skwasjer",
             "repo": "IbanNet",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3418,7 +3656,8 @@
             "owner": "jschaedl",
             "repo": "iban-validation",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3433,7 +3672,8 @@
             "owner": "openpotato",
             "repo": "openholidaysapi",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3448,7 +3688,8 @@
             "owner": "koblas",
             "repo": "stdnum-js",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3463,7 +3704,8 @@
             "owner": "PennyHow",
             "repo": "schengulator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "European Utilities"
@@ -3480,11 +3722,12 @@
             "archived": false,
             "id": 1866915,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:10:30Z",
+            "last_commit": "2026-08-28T05:13:58Z",
             "owner": "Arelle",
             "repo": "Arelle",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3499,7 +3742,8 @@
             "owner": "manusimidt",
             "repo": "py-xbrl",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3514,7 +3758,8 @@
             "owner": "Arelle",
             "repo": "ixbrl-viewer",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3529,7 +3774,8 @@
             "owner": "open-risk",
             "repo": "transitionMatrix",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3544,7 +3790,8 @@
             "owner": "kanedata",
             "repo": "ixbrl-parse",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3559,7 +3806,8 @@
             "owner": "open-source-modelling",
             "repo": "insurance_python",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3574,7 +3822,8 @@
             "owner": "BrelLibrary",
             "repo": "brel",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3589,7 +3838,8 @@
             "owner": "open-risk",
             "repo": "concentrationMetrics",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3604,7 +3854,8 @@
             "owner": "WebOfTrust",
             "repo": "vLEI",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3619,7 +3870,8 @@
             "owner": "cybermaggedon",
             "repo": "ixbrl-reporter",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3634,7 +3886,8 @@
             "owner": "open-risk",
             "repo": "openNPL",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3649,7 +3902,8 @@
             "owner": "open-risk",
             "repo": "portfolioAnalytics",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3664,7 +3918,8 @@
             "owner": "European-Securities-Markets-Authority",
             "repo": "esma_data_py",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3679,7 +3934,8 @@
             "owner": "dgm9704",
             "repo": "Xoxo",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3694,7 +3950,8 @@
             "owner": "open-source-modelling",
             "repo": "Open_Source_Economic_Model",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3709,7 +3966,8 @@
             "owner": "jdvala",
             "repo": "python-lei",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3724,7 +3982,8 @@
             "owner": "simicd",
             "repo": "smith-wilson-py",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Finance and Capital Markets"
@@ -3744,8 +4003,9 @@
             "last_commit": "2026-07-23T21:39:48Z",
             "owner": "orestbida",
             "repo": "cookieconsent",
-            "stars": 5642
-          }
+            "stars": 5645
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3756,11 +4016,12 @@
             "archived": false,
             "id": 694266896,
             "language": "Python",
-            "last_commit": "2026-08-27T09:59:13Z",
+            "last_commit": "2026-08-27T18:14:17Z",
             "owner": "intuitem",
             "repo": "ciso-assistant-community",
-            "stars": 4377
-          }
+            "stars": 4380
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3774,8 +4035,9 @@
             "last_commit": "2026-02-07T15:11:53Z",
             "owner": "cavi-au",
             "repo": "Consent-O-Matic",
-            "stars": 4219
-          }
+            "stars": 4221
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3789,8 +4051,9 @@
             "last_commit": "2026-08-11T18:23:43Z",
             "owner": "osano",
             "repo": "cookieconsent",
-            "stars": 3568
-          }
+            "stars": 3569
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3805,7 +4068,8 @@
             "owner": "kiprotect",
             "repo": "klaro",
             "stars": 1506
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3819,8 +4083,9 @@
             "last_commit": "2026-07-28T09:36:53Z",
             "owner": "securitybunker",
             "repo": "databunker",
-            "stars": 1482
-          }
+            "stars": 1483
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3831,11 +4096,12 @@
             "archived": false,
             "id": 913434583,
             "language": "Go",
-            "last_commit": "2026-08-27T11:10:52Z",
+            "last_commit": "2026-08-28T05:58:27Z",
             "owner": "getprobo",
             "repo": "probo",
-            "stars": 1316
-          }
+            "stars": 1317
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3850,7 +4116,8 @@
             "owner": "AmauriC",
             "repo": "tarteaucitron.js",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3865,7 +4132,8 @@
             "owner": "InteractiveAdvertisingBureau",
             "repo": "GDPR-Transparency-and-Consent-Framework",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3880,7 +4148,8 @@
             "owner": "privacyradius",
             "repo": "gdpr-checklist",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3895,7 +4164,8 @@
             "owner": "prey",
             "repo": "gdpr_rails",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3910,7 +4180,8 @@
             "owner": "ethyca",
             "repo": "fides",
             "stars": 481
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3925,7 +4196,8 @@
             "owner": "Alex-D",
             "repo": "Cookies-EU-banner",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3940,7 +4212,8 @@
             "owner": "LINCnil",
             "repo": "GDPR-Developer-Guide",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3955,7 +4228,8 @@
             "owner": "sander3",
             "repo": "laravel-gdpr",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3970,7 +4244,8 @@
             "owner": "LINCnil",
             "repo": "pia",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -3985,7 +4260,8 @@
             "owner": "CovenantSQL",
             "repo": "CookieScanner",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4000,7 +4276,8 @@
             "owner": "porscheofficial",
             "repo": "cookie-consent-banner",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4015,7 +4292,8 @@
             "owner": "realrolfje",
             "repo": "anonimatron",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4029,8 +4307,9 @@
             "last_commit": "2026-08-06T18:13:32Z",
             "owner": "w3c-cg",
             "repo": "dpv",
-            "stars": 80
-          }
+            "stars": 81
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4045,7 +4324,8 @@
             "owner": "chiiya",
             "repo": "haven",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4060,7 +4340,8 @@
             "owner": "68publishers",
             "repo": "consent-management-platform",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "GDPR and Data Protection"
@@ -4081,7 +4362,8 @@
             "owner": "sentinel-hub",
             "repo": "eo-learn",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4096,7 +4378,8 @@
             "owner": "pytroll",
             "repo": "satpy",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4111,7 +4394,8 @@
             "owner": "sentinel-hub",
             "repo": "sentinelhub-py",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4126,7 +4410,8 @@
             "owner": "geopython",
             "repo": "pygeoapi",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4137,11 +4422,12 @@
             "archived": false,
             "id": 4661744,
             "language": "Java",
-            "last_commit": "2026-08-27T11:13:32Z",
+            "last_commit": "2026-08-28T06:02:35Z",
             "owner": "geonetwork",
             "repo": "core-geonetwork",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4156,7 +4442,8 @@
             "owner": "sentinel-hub",
             "repo": "sentinel2-cloud-detector",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4171,7 +4458,8 @@
             "owner": "ecmwf",
             "repo": "cfgrib",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4186,7 +4474,8 @@
             "owner": "geopython",
             "repo": "OWSLib",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4197,11 +4486,12 @@
             "archived": false,
             "id": 203819248,
             "language": "Python",
-            "last_commit": "2026-08-26T08:56:33Z",
+            "last_commit": "2026-08-27T17:09:02Z",
             "owner": "CS-SI",
             "repo": "eodag",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4216,7 +4506,8 @@
             "owner": "ecmwf",
             "repo": "climetlab",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4231,7 +4522,8 @@
             "owner": "pytroll",
             "repo": "pyresample",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4246,7 +4538,8 @@
             "owner": "ecmwf",
             "repo": "ecmwf-opendata",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4261,7 +4554,8 @@
             "owner": "ecmwf",
             "repo": "cdsapi",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4276,7 +4570,8 @@
             "owner": "bopen",
             "repo": "sarsen",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4290,8 +4585,9 @@
             "last_commit": "2026-08-24T14:16:11Z",
             "owner": "ecmwf",
             "repo": "earthkit",
-            "stars": 306
-          }
+            "stars": 307
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4302,11 +4598,12 @@
             "archived": false,
             "id": 161228639,
             "language": "C++",
-            "last_commit": "2026-08-26T15:29:35Z",
+            "last_commit": "2026-08-27T14:45:50Z",
             "owner": "ecmwf",
             "repo": "eccodes",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4321,7 +4618,8 @@
             "owner": "pytroll",
             "repo": "pyorbital",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4336,7 +4634,8 @@
             "owner": "ESA-PhiLab",
             "repo": "OpenSarToolkit",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4351,7 +4650,8 @@
             "owner": "bopen",
             "repo": "xarray-sentinel",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4366,7 +4666,8 @@
             "owner": "geopython",
             "repo": "pycsw",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4381,7 +4682,8 @@
             "owner": "Universite-Gustave-Eiffel",
             "repo": "NoiseModelling",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4396,7 +4698,8 @@
             "owner": "Open-EO",
             "repo": "openeo-python-client",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4411,7 +4714,8 @@
             "owner": "senbox-org",
             "repo": "snap-engine",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4426,7 +4730,8 @@
             "owner": "geopython",
             "repo": "pywps",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4441,7 +4746,8 @@
             "owner": "deegree",
             "repo": "deegree3",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4456,7 +4762,8 @@
             "owner": "ec-jrc",
             "repo": "lisflood-code",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4467,11 +4774,12 @@
             "archived": false,
             "id": 904214730,
             "language": "Python",
-            "last_commit": "2026-08-27T09:40:17Z",
+            "last_commit": "2026-08-27T16:11:05Z",
             "owner": "ecmwf",
             "repo": "anemoi-core",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4482,11 +4790,12 @@
             "archived": false,
             "id": 122975745,
             "language": "C++",
-            "last_commit": "2026-08-25T12:58:06Z",
+            "last_commit": "2026-08-27T12:05:12Z",
             "owner": "ecmwf",
             "repo": "atlas",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4501,7 +4810,8 @@
             "owner": "ecmwf",
             "repo": "metview-python",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4516,7 +4826,8 @@
             "owner": "ecmwf",
             "repo": "eccodes-python",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4531,7 +4842,8 @@
             "owner": "52North",
             "repo": "SOS",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4546,7 +4858,8 @@
             "owner": "geopython",
             "repo": "pygeometa",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4557,11 +4870,12 @@
             "archived": false,
             "id": 513169993,
             "language": "Python",
-            "last_commit": "2026-08-26T13:47:46Z",
+            "last_commit": "2026-08-27T15:15:31Z",
             "owner": "ecmwf",
             "repo": "earthkit-data",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4576,7 +4890,8 @@
             "owner": "Open-EO",
             "repo": "openeo-api",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4587,11 +4902,12 @@
             "archived": false,
             "id": 48321891,
             "language": "Java",
-            "last_commit": "2026-08-26T21:52:43Z",
+            "last_commit": "2026-08-27T20:55:35Z",
             "owner": "ldproxy",
             "repo": "ldproxy",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4606,7 +4922,8 @@
             "owner": "CDSETool",
             "repo": "CDSETool",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4621,7 +4938,8 @@
             "owner": "ecmwf",
             "repo": "thermofeel",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4636,7 +4954,8 @@
             "owner": "actinia-org",
             "repo": "actinia-core",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4651,7 +4970,8 @@
             "owner": "geopython",
             "repo": "GeoHealthCheck",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4662,11 +4982,12 @@
             "archived": false,
             "id": 777117191,
             "language": "Python",
-            "last_commit": "2026-08-27T09:59:25Z",
+            "last_commit": "2026-08-27T13:36:00Z",
             "owner": "ecmwf",
             "repo": "anemoi-datasets",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4681,7 +5002,8 @@
             "owner": "ec-jrc",
             "repo": "nrt",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4696,7 +5018,8 @@
             "owner": "Open-EO",
             "repo": "openeo-r-client",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4707,11 +5030,12 @@
             "archived": false,
             "id": 756912214,
             "language": "Python",
-            "last_commit": "2026-08-27T10:21:45Z",
+            "last_commit": "2026-08-27T16:33:11Z",
             "owner": "mercator-ocean",
             "repo": "copernicus-marine-toolbox",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4722,11 +5046,12 @@
             "archived": false,
             "id": 2932773,
             "language": "Python",
-            "last_commit": "2026-08-27T11:33:09Z",
+            "last_commit": "2026-08-28T03:45:38Z",
             "owner": "camptocamp",
             "repo": "c2cgeoportal",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4741,7 +5066,8 @@
             "owner": "ecmwf",
             "repo": "ecflow",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4756,7 +5082,8 @@
             "owner": "52North",
             "repo": "helgoland",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4771,7 +5098,8 @@
             "owner": "ecmwf",
             "repo": "magics",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4786,7 +5114,8 @@
             "owner": "Open-EO",
             "repo": "openeo-processes",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4801,7 +5130,8 @@
             "owner": "eWaterCycle",
             "repo": "era5cli",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4816,7 +5146,8 @@
             "owner": "ecmwf",
             "repo": "skinnywms",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4831,7 +5162,8 @@
             "owner": "eblondel",
             "repo": "geometa",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4846,7 +5178,8 @@
             "owner": "ecmwf",
             "repo": "polytope",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4861,7 +5194,8 @@
             "owner": "sentinel-hub",
             "repo": "eo-grow",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4876,7 +5210,8 @@
             "owner": "INSPIRE-MIF",
             "repo": "helpdesk-validator",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4891,7 +5226,8 @@
             "owner": "INSPIRE-MIF",
             "repo": "technical-guidelines",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4906,7 +5242,8 @@
             "owner": "pepijn-devries",
             "repo": "CopernicusMarine",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4921,7 +5258,8 @@
             "owner": "ec-jrc",
             "repo": "lisflood-utilities",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4936,7 +5274,8 @@
             "owner": "DHI-GRAS",
             "repo": "creodias-finder",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4951,7 +5290,8 @@
             "owner": "ecmwf",
             "repo": "pdbufr",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4966,7 +5306,8 @@
             "owner": "ec-jrc",
             "repo": "pyPoseidon",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4981,7 +5322,8 @@
             "owner": "SEMICeu",
             "repo": "iso-19139-to-dcat-ap",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -4996,7 +5338,8 @@
             "owner": "Open-EO",
             "repo": "openeo-web-editor",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Geospatial and Earth Observation"
@@ -5013,11 +5356,12 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-27T11:32:43Z",
+            "last_commit": "2026-08-28T02:57:30Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5032,7 +5376,8 @@
             "owner": "eu-digital-green-certificates",
             "repo": "dgc-overview",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5047,7 +5392,8 @@
             "owner": "openregulatory",
             "repo": "templates",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5062,7 +5408,8 @@
             "owner": "EGA-archive",
             "repo": "ega-download-client",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5077,7 +5424,8 @@
             "owner": "eu-digital-green-certificates",
             "repo": "dgca-verifier-app-android",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5088,11 +5436,12 @@
             "archived": false,
             "id": 109308060,
             "language": "Java",
-            "last_commit": "2026-08-24T11:03:06Z",
+            "last_commit": "2026-08-27T14:57:54Z",
             "owner": "openEHR",
             "repo": "archie",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5107,7 +5456,8 @@
             "owner": "eu-digital-green-certificates",
             "repo": "dgc-gateway",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5118,11 +5468,12 @@
             "archived": false,
             "id": 288718497,
             "language": "Java",
-            "last_commit": "2026-08-27T11:15:29Z",
+            "last_commit": "2026-08-27T18:19:11Z",
             "owner": "BBMRI-ERIC",
             "repo": "negotiator",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5137,7 +5488,8 @@
             "owner": "HL7",
             "repo": "fhir-ips",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5152,7 +5504,8 @@
             "owner": "openregulatory",
             "repo": "eudamed-api",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5167,7 +5520,8 @@
             "owner": "samply",
             "repo": "bridgehead",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5182,7 +5536,8 @@
             "owner": "hl7-eu",
             "repo": "laboratory",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5197,7 +5552,8 @@
             "owner": "stefanbuttigieg",
             "repo": "ehdsexplorer",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5212,7 +5568,8 @@
             "owner": "hl7-eu",
             "repo": "imaging",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5227,7 +5584,8 @@
             "owner": "hl7-eu",
             "repo": "eps",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5242,7 +5600,8 @@
             "owner": "hl7-eu",
             "repo": "gravitate-health",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5253,11 +5612,12 @@
             "archived": false,
             "id": 355939515,
             "language": "GLSL",
-            "last_commit": "2026-08-25T06:49:57Z",
+            "last_commit": "2026-08-27T17:47:09Z",
             "owner": "hl7-eu",
             "repo": "base",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5272,7 +5632,8 @@
             "owner": "hl7-eu",
             "repo": "unicom-ig",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Health and Pharmaceuticals"
@@ -5293,7 +5654,8 @@
             "owner": "fsfe",
             "repo": "reuse-tool",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5308,7 +5670,8 @@
             "owner": "ip-tools",
             "repo": "python-epo-ops-client",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5323,7 +5686,8 @@
             "owner": "ip-tools",
             "repo": "patzilla",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Intellectual Property"
@@ -5343,8 +5707,9 @@
             "last_commit": "2026-08-18T08:01:42Z",
             "owner": "esig",
             "repo": "dss",
-            "stars": 1026
-          }
+            "stars": 1027
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5355,11 +5720,12 @@
             "archived": false,
             "id": 134143184,
             "language": "Java",
-            "last_commit": "2026-08-27T11:36:52Z",
+            "last_commit": "2026-08-28T05:23:57Z",
             "owner": "nordic-institute",
             "repo": "X-Road",
             "stars": 838
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5370,11 +5736,12 @@
             "archived": false,
             "id": 389727943,
             "language": "Java",
-            "last_commit": "2026-08-25T07:34:10Z",
+            "last_commit": "2026-08-27T14:23:58Z",
             "owner": "eclipse-edc",
             "repo": "Connector",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5389,7 +5756,8 @@
             "owner": "telefonicaid",
             "repo": "fiware-orion",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5404,7 +5772,8 @@
             "owner": "publiccodeyml",
             "repo": "publiccode.yml",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5419,7 +5788,8 @@
             "owner": "FIWARE",
             "repo": "catalogue",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5434,7 +5804,8 @@
             "owner": "ec-europa",
             "repo": "europa-component-library",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5449,7 +5820,8 @@
             "owner": "linkedpipes",
             "repo": "etl",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5464,7 +5836,8 @@
             "owner": "halestudio",
             "repo": "hale",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5479,7 +5852,8 @@
             "owner": "smart-data-models",
             "repo": "data-models",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5494,7 +5868,8 @@
             "owner": "eclipse-dataspace-hub",
             "repo": "MinimumViableDataspace",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5509,7 +5884,8 @@
             "owner": "digicert",
             "repo": "pkilint",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5524,7 +5900,8 @@
             "owner": "esig",
             "repo": "dss-demonstrations",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5535,11 +5912,12 @@
             "archived": false,
             "id": 25913720,
             "language": "C++",
-            "last_commit": "2026-08-27T09:40:07Z",
+            "last_commit": "2026-08-27T11:59:27Z",
             "owner": "open-eid",
             "repo": "libdigidocpp",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5550,11 +5928,12 @@
             "archived": false,
             "id": 189387204,
             "language": "Python",
-            "last_commit": "2026-08-27T11:02:05Z",
+            "last_commit": "2026-08-27T14:03:22Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 93
-          }
+            "stars": 94
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5569,7 +5948,8 @@
             "owner": "holodeck-b2b",
             "repo": "Holodeck-B2B",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5584,7 +5964,8 @@
             "owner": "sovity",
             "repo": "edc-ce",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5599,7 +5980,8 @@
             "owner": "sovity",
             "repo": "edc-ce",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5614,7 +5996,8 @@
             "owner": "eclipse-edc",
             "repo": "Samples",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5629,7 +6012,8 @@
             "owner": "ScorpioBroker",
             "repo": "ScorpioBroker",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5644,7 +6028,8 @@
             "owner": "FIWARE",
             "repo": "context.Orion-LD",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5659,7 +6044,8 @@
             "owner": "Wirecloud",
             "repo": "wirecloud",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5674,7 +6060,8 @@
             "owner": "Fraunhofer-AISEC",
             "repo": "trusted-connector",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5685,11 +6072,12 @@
             "archived": false,
             "id": 691886940,
             "language": "Mustache",
-            "last_commit": "2026-08-27T07:24:15Z",
+            "last_commit": "2026-08-27T12:47:39Z",
             "owner": "FIWARE",
             "repo": "data-space-connector",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5704,7 +6092,8 @@
             "owner": "telefonicaid",
             "repo": "iotagent-json",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5719,7 +6108,8 @@
             "owner": "International-Data-Spaces-Association",
             "repo": "ids-specification",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5734,7 +6124,8 @@
             "owner": "europeana",
             "repo": "corelib",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5745,11 +6136,12 @@
             "archived": false,
             "id": 499161913,
             "language": "Java",
-            "last_commit": "2026-08-27T10:28:11Z",
+            "last_commit": "2026-08-28T05:45:09Z",
             "owner": "eclipse-edc",
             "repo": "IdentityHub",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5760,11 +6152,12 @@
             "archived": false,
             "id": 257818724,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T08:26:57Z",
+            "last_commit": "2026-08-28T05:59:05Z",
             "owner": "stellio-hub",
             "repo": "stellio-context-broker",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5779,7 +6172,8 @@
             "owner": "smart-data-models",
             "repo": "dataModel.Transportation",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5794,7 +6188,8 @@
             "owner": "ging",
             "repo": "fiware-idm",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5809,7 +6204,8 @@
             "owner": "ISAITB",
             "repo": "gitb",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5824,7 +6220,8 @@
             "owner": "felleslosninger",
             "repo": "efm-asic",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5839,7 +6236,8 @@
             "owner": "FIWARE",
             "repo": "tutorials.NGSI-LD",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5854,7 +6252,8 @@
             "owner": "SEMICeu",
             "repo": "CPSV-AP",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5869,7 +6268,8 @@
             "owner": "eclipse-edc",
             "repo": "DataDashboard",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5884,7 +6284,8 @@
             "owner": "ISAITB",
             "repo": "shacl-validator",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5899,7 +6300,8 @@
             "owner": "OPSILab",
             "repo": "Idra",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5914,7 +6316,8 @@
             "owner": "ISAITB",
             "repo": "xml-validator",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5929,7 +6332,8 @@
             "owner": "open-eid",
             "repo": "SiGa",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5944,7 +6348,8 @@
             "owner": "SEMICeu",
             "repo": "Core-Business-Vocabulary",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5959,7 +6364,8 @@
             "owner": "SEMICeu",
             "repo": "CCCEV",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5974,7 +6380,8 @@
             "owner": "SEMICeu",
             "repo": "Core-Person-Vocabulary",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -5989,7 +6396,8 @@
             "owner": "SEMICeu",
             "repo": "Core-Location-Vocabulary",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6000,11 +6408,12 @@
             "archived": false,
             "id": 161469050,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:13:35Z",
+            "last_commit": "2026-08-27T12:22:15Z",
             "owner": "europeana",
             "repo": "portal.js",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6019,7 +6428,8 @@
             "owner": "smart-data-models",
             "repo": "dataModel.Agrifood",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6034,7 +6444,8 @@
             "owner": "SEMICeu",
             "repo": "CPOV",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6049,7 +6460,8 @@
             "owner": "sovity",
             "repo": "dataspace-portal",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6064,7 +6476,8 @@
             "owner": "ISAITB",
             "repo": "json-validator",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6079,7 +6492,8 @@
             "owner": "ISAITB",
             "repo": "csv-validator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6094,7 +6508,8 @@
             "owner": "eclipse-xfsc",
             "repo": "federated-catalogue",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6109,7 +6524,8 @@
             "owner": "nordic-institute",
             "repo": "harmony-access-point",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6124,7 +6540,8 @@
             "owner": "telefonicaid",
             "repo": "kafnus",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Interoperability and Digital Infrastructure"
@@ -6141,11 +6558,12 @@
             "archived": false,
             "id": 132149199,
             "language": "Python",
-            "last_commit": "2026-08-24T12:58:30Z",
+            "last_commit": "2026-08-27T13:12:44Z",
             "owner": "openlegaldata",
             "repo": "oldp",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6156,11 +6574,12 @@
             "archived": false,
             "id": 343427262,
             "language": "ANTLR",
-            "last_commit": "2026-08-26T20:39:01Z",
+            "last_commit": "2026-08-27T14:34:27Z",
             "owner": "OP-TED",
             "repo": "eForms-SDK",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6175,7 +6594,8 @@
             "owner": "michalovadek",
             "repo": "eurlex",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6190,7 +6610,8 @@
             "owner": "openlegaldata",
             "repo": "legal-reference-extraction",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6205,7 +6626,8 @@
             "owner": "kevin91nl",
             "repo": "eurlex",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6220,7 +6642,8 @@
             "owner": "racai-ai",
             "repo": "pyeurovoc",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6235,7 +6658,8 @@
             "owner": "laws-africa",
             "repo": "cobalt",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6250,7 +6674,8 @@
             "owner": "echr-od",
             "repo": "ECHR-OD_process",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6265,7 +6690,8 @@
             "owner": "laws-africa",
             "repo": "bluebell",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6280,7 +6706,8 @@
             "owner": "maastrichtlawtech",
             "repo": "case-law-explorer",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6295,7 +6722,8 @@
             "owner": "OP-TED",
             "repo": "eforms-notice-viewer",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6310,7 +6738,8 @@
             "owner": "step21",
             "repo": "eurlex",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Legal and Legislation"
@@ -6327,11 +6756,12 @@
             "archived": false,
             "id": 2750721,
             "language": "Python",
-            "last_commit": "2026-08-27T03:21:40Z",
+            "last_commit": "2026-08-27T20:26:05Z",
             "owner": "ckan",
             "repo": "ckan",
             "stars": 5106
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6346,7 +6776,8 @@
             "owner": "morph-kgc",
             "repo": "morph-kgc",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6357,11 +6788,12 @@
             "archived": false,
             "id": 19141754,
             "language": "Python",
-            "last_commit": "2026-08-27T11:20:12Z",
+            "last_commit": "2026-08-27T15:30:01Z",
             "owner": "opendatateam",
             "repo": "udata",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6376,7 +6808,8 @@
             "owner": "rOpenGov",
             "repo": "eurostat",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6391,7 +6824,8 @@
             "owner": "eurostat",
             "repo": "searoute",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6406,7 +6840,8 @@
             "owner": "eurostat",
             "repo": "gridviz",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6421,7 +6856,8 @@
             "owner": "okfn",
             "repo": "opendatahandbook",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6436,7 +6872,8 @@
             "owner": "RMLio",
             "repo": "rmlmapper-java",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6451,7 +6888,8 @@
             "owner": "ckan",
             "repo": "ckanext-dcat",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6466,7 +6904,8 @@
             "owner": "ckan",
             "repo": "ckanext-harvest",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6481,7 +6920,8 @@
             "owner": "sdmx-twg",
             "repo": "sdmx-rest",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6496,7 +6936,8 @@
             "owner": "ckan",
             "repo": "ckanext-spatial",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6511,7 +6952,8 @@
             "owner": "dr-leo",
             "repo": "pandaSDMX",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6526,7 +6968,8 @@
             "owner": "SEMICeu",
             "repo": "DCAT-AP",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6541,7 +6984,8 @@
             "owner": "eblondel",
             "repo": "rsdmx",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6556,7 +7000,8 @@
             "owner": "eurostat",
             "repo": "eurostat-map",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6571,7 +7016,8 @@
             "owner": "amattioc",
             "repo": "SDMX",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6586,7 +7032,8 @@
             "owner": "eurostat",
             "repo": "Nuts2json",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6597,11 +7044,12 @@
             "archived": false,
             "id": 298076366,
             "language": "R",
-            "last_commit": "2026-08-27T09:01:57Z",
+            "last_commit": "2026-08-27T14:21:40Z",
             "owner": "rOpenGov",
             "repo": "giscoR",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6612,11 +7060,12 @@
             "archived": false,
             "id": 22139002,
             "language": "R",
-            "last_commit": "2026-07-17T15:24:44Z",
+            "last_commit": "2026-08-28T06:03:48Z",
             "owner": "rOpenGov",
             "repo": "pxweb",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6631,7 +7080,8 @@
             "owner": "sdmx-twg",
             "repo": "sdmx-json",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6646,7 +7096,8 @@
             "owner": "RMLio",
             "repo": "yarrrml-parser",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6661,7 +7112,8 @@
             "owner": "eurostat",
             "repo": "statistics-coded",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6676,7 +7128,8 @@
             "owner": "eurostat",
             "repo": "restatapi",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6691,7 +7144,8 @@
             "owner": "europeana",
             "repo": "metis-framework",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6706,7 +7160,8 @@
             "owner": "jdemetra",
             "repo": "jdplus-main",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6721,7 +7176,8 @@
             "owner": "eurostat",
             "repo": "happyGISCO",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6736,7 +7192,8 @@
             "owner": "icane",
             "repo": "pyaxis",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6751,7 +7208,8 @@
             "owner": "sdmx-twg",
             "repo": "sdmx-ml",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6766,7 +7224,8 @@
             "owner": "eurostat",
             "repo": "java4eurostat",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Open Data and Statistics"
@@ -6787,7 +7246,8 @@
             "owner": "OpenBankProject",
             "repo": "OBP-API",
             "stars": 1738
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6801,8 +7261,9 @@
             "last_commit": "2026-01-09T19:11:45Z",
             "owner": "adorsys",
             "repo": "open-banking-gateway",
-            "stars": 334
-          }
+            "stars": 335
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6817,7 +7278,8 @@
             "owner": "prowide",
             "repo": "prowide-core",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6832,7 +7294,8 @@
             "owner": "php-sepa-xml",
             "repo": "php-sepa-xml",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6847,7 +7310,8 @@
             "owner": "prowide",
             "repo": "prowide-iso20022",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6862,7 +7326,8 @@
             "owner": "hbci4j",
             "repo": "hbci4java",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6877,7 +7342,8 @@
             "owner": "adorsys",
             "repo": "xs2a",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6892,7 +7358,8 @@
             "owner": "salesking",
             "repo": "sepa_king",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6907,7 +7374,8 @@
             "owner": "raphaelm",
             "repo": "python-sepaxml",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6922,7 +7390,8 @@
             "owner": "raphaelm",
             "repo": "python-sepaxml",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6937,7 +7406,8 @@
             "owner": "railslove",
             "repo": "epics",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6952,7 +7422,8 @@
             "owner": "kewisch",
             "repo": "sepa.js",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6967,7 +7438,8 @@
             "owner": "jovandeginste",
             "repo": "payme",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6982,7 +7454,8 @@
             "owner": "adorsys",
             "repo": "ledgers",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -6997,7 +7470,8 @@
             "owner": "nordigen",
             "repo": "nordigen-python",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7012,7 +7486,8 @@
             "owner": "node-ebics",
             "repo": "node-ebics-client",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7027,7 +7502,8 @@
             "owner": "adorsys",
             "repo": "XS2A-Sandbox",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7038,11 +7514,12 @@
             "archived": false,
             "id": 197830459,
             "language": "PHP",
-            "last_commit": "2026-08-16T19:27:33Z",
+            "last_commit": "2026-08-27T18:16:08Z",
             "owner": "ebics-api",
             "repo": "ebics-client-php",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7057,7 +7534,8 @@
             "owner": "AbcAeffchen",
             "repo": "Sephpa",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7072,7 +7550,8 @@
             "owner": "libfintx",
             "repo": "libfintx",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7087,7 +7566,8 @@
             "owner": "ebics-java",
             "repo": "ebics-java-client",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7102,7 +7582,8 @@
             "owner": "adorsys",
             "repo": "xs2a-adapter",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7117,7 +7598,8 @@
             "owner": "AbcAeffchen",
             "repo": "SepaUtilities",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Payments and Banking"
@@ -7138,7 +7620,8 @@
             "owner": "open-contracting",
             "repo": "standard",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7153,7 +7636,8 @@
             "owner": "OP-TED",
             "repo": "ePO",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7168,7 +7652,8 @@
             "owner": "OP-TED",
             "repo": "ESPD-EDM",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7183,7 +7668,8 @@
             "owner": "OP-TED",
             "repo": "model2owl",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7198,7 +7684,8 @@
             "owner": "open-contracting-extensions",
             "repo": "european-union",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7213,7 +7700,8 @@
             "owner": "OP-TED",
             "repo": "ted-open-data",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7228,7 +7716,8 @@
             "owner": "OP-TED",
             "repo": "ted-rdf-mapping",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7243,7 +7732,8 @@
             "owner": "OP-TED",
             "repo": "ted-rdf-conversion-pipeline",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7258,7 +7748,8 @@
             "owner": "OP-TED",
             "repo": "eforms-notice-editor",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Public Procurement"
@@ -7275,11 +7766,12 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-27T09:58:51Z",
+            "last_commit": "2026-08-27T15:41:52Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2216
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7294,7 +7786,8 @@
             "owner": "esa",
             "repo": "pykep",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7309,7 +7802,8 @@
             "owner": "CS-SI",
             "repo": "Orekit",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7324,7 +7818,8 @@
             "owner": "berthubert",
             "repo": "galmon",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7339,7 +7834,8 @@
             "owner": "interuss",
             "repo": "dss",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7353,8 +7849,9 @@
             "last_commit": "2026-08-26T21:35:40Z",
             "owner": "esa",
             "repo": "nanosat-mo-framework",
-            "stars": 123
-          }
+            "stars": 124
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Space and Aviation"
@@ -7375,7 +7872,8 @@
             "owner": "batterypass",
             "repo": "BatteryPassDataModel",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7390,7 +7888,8 @@
             "owner": "open-risk",
             "repo": "equinox",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7405,7 +7904,8 @@
             "owner": "DataScienceUIBK",
             "repo": "SustainableQA",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7416,11 +7916,12 @@
             "archived": false,
             "id": 1057262827,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:40:45Z",
+            "last_commit": "2026-08-27T15:38:26Z",
             "owner": "open-dpp",
             "repo": "open-dpp",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7435,7 +7936,8 @@
             "owner": "mfrntic",
             "repo": "eudr-api-client",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7450,7 +7952,8 @@
             "owner": "eclipse-tractusx",
             "repo": "puris",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7465,7 +7968,8 @@
             "owner": "datasets",
             "repo": "eu-emissions-trading-system",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7480,7 +7984,8 @@
             "owner": "eclipse-tractusx",
             "repo": "tractus-x-release",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7491,11 +7996,12 @@
             "archived": false,
             "id": 476767007,
             "language": "Java",
-            "last_commit": "2026-08-27T10:50:12Z",
+            "last_commit": "2026-08-27T13:08:10Z",
             "owner": "eclipse-tractusx",
             "repo": "sldt-digital-twin-registry",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7510,7 +8016,8 @@
             "owner": "eclipse-tractusx",
             "repo": "traceability-foss",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7525,7 +8032,8 @@
             "owner": "os-climate",
             "repo": "ITR",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7540,7 +8048,8 @@
             "owner": "aimabel-ai",
             "repo": "esrs-xbrl-parser",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7551,11 +8060,12 @@
             "archived": false,
             "id": 526621398,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T07:26:01Z",
+            "last_commit": "2026-08-28T05:57:37Z",
             "owner": "eclipse-tractusx",
             "repo": "bpdm",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7570,7 +8080,8 @@
             "owner": "artiso-ai",
             "repo": "dppvalidator",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7585,7 +8096,8 @@
             "owner": "4bdullatif",
             "repo": "eudr-php-client",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Sustainability and ESG"
@@ -7602,11 +8114,12 @@
             "archived": false,
             "id": 108592307,
             "language": "Python",
-            "last_commit": "2026-08-27T11:28:00Z",
+            "last_commit": "2026-08-27T16:37:44Z",
             "owner": "eclipse-sumo",
             "repo": "sumo",
-            "stars": 4149
-          }
+            "stars": 4150
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7617,11 +8130,12 @@
             "archived": false,
             "id": 2067253,
             "language": "Java",
-            "last_commit": "2026-08-27T09:31:19Z",
+            "last_commit": "2026-08-27T14:04:54Z",
             "owner": "opentripplanner",
             "repo": "OpenTripPlanner",
             "stars": 2723
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7632,11 +8146,12 @@
             "archived": false,
             "id": 752620908,
             "language": "Lua",
-            "last_commit": "2026-08-27T07:48:38Z",
+            "last_commit": "2026-08-27T14:32:27Z",
             "owner": "public-transport",
             "repo": "transitous",
             "stars": 695
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7647,11 +8162,12 @@
             "archived": false,
             "id": 203611792,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:50:47Z",
+            "last_commit": "2026-08-27T18:23:04Z",
             "owner": "OpenRailAssociation",
             "repo": "osrd",
             "stars": 653
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7666,7 +8182,8 @@
             "owner": "motis-project",
             "repo": "motis",
             "stars": 566
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7681,7 +8198,8 @@
             "owner": "xoolive",
             "repo": "traffic",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7696,7 +8214,8 @@
             "owner": "openskynetwork",
             "repo": "opensky-api",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7711,7 +8230,8 @@
             "owner": "hove-io",
             "repo": "navitia",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7726,7 +8246,8 @@
             "owner": "juliuste",
             "repo": "direkt.bahn.guru",
             "stars": 388
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7741,7 +8262,8 @@
             "owner": "public-transport",
             "repo": "hafas-client",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7752,11 +8274,12 @@
             "archived": false,
             "id": 32916096,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:49:58Z",
+            "last_commit": "2026-08-27T13:45:54Z",
             "owner": "HSLdevcom",
             "repo": "digitransit-ui",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7771,7 +8294,8 @@
             "owner": "riebl",
             "repo": "artery",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7785,8 +8309,9 @@
             "last_commit": "2026-08-25T12:22:01Z",
             "owner": "riebl",
             "repo": "vanetza",
-            "stars": 226
-          }
+            "stars": 227
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7801,7 +8326,8 @@
             "owner": "DriveX-devs",
             "repo": "VaN3Twin",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7816,7 +8342,8 @@
             "owner": "trainline-eu",
             "repo": "stations",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7831,7 +8358,8 @@
             "owner": "public-transport",
             "repo": "friendly-public-transport-format",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7845,8 +8373,9 @@
             "last_commit": "2026-08-16T12:57:08Z",
             "owner": "TransmodelEcosystem",
             "repo": "NeTEx",
-            "stars": 137
-          }
+            "stars": 138
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7861,7 +8390,8 @@
             "owner": "alexvoronov",
             "repo": "geonetworking",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7876,7 +8406,8 @@
             "owner": "public-transport",
             "repo": "transport-apis",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7891,7 +8422,8 @@
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "OSDM",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7902,11 +8434,12 @@
             "archived": false,
             "id": 747239300,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:35:14Z",
+            "last_commit": "2026-08-27T17:19:50Z",
             "owner": "OpenRailAssociation",
             "repo": "netzgrafik-editor-frontend",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7921,7 +8454,8 @@
             "owner": "ika-rwth-aachen",
             "repo": "etsi_its_messages",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7936,7 +8470,8 @@
             "owner": "ManelGrifoll",
             "repo": "SIMROUTE",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7951,7 +8486,8 @@
             "owner": "traines-source",
             "repo": "time-space-train-planner",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7962,11 +8498,12 @@
             "archived": false,
             "id": 114797044,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:38:00Z",
+            "last_commit": "2026-08-27T18:00:02Z",
             "owner": "hove-io",
             "repo": "transit_model",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7981,7 +8518,8 @@
             "owner": "FahrplanDatenGarten",
             "repo": "pyhafas",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -7996,7 +8534,8 @@
             "owner": "public-transport",
             "repo": "european-transport-feeds",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8011,7 +8550,8 @@
             "owner": "TransmodelEcosystem",
             "repo": "SIRI",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8026,7 +8566,8 @@
             "owner": "UnionInternationalCheminsdeFer",
             "repo": "UIC-barcode",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8041,7 +8582,8 @@
             "owner": "cesarBLG",
             "repo": "ETCS",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8056,7 +8598,8 @@
             "owner": "GeiserX",
             "repo": "Pumperly",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8071,7 +8614,8 @@
             "owner": "entur",
             "repo": "netex-java-model",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8086,7 +8630,8 @@
             "owner": "DriveX-devs",
             "repo": "OScar",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8101,7 +8646,8 @@
             "owner": "mobilityDCAT-AP",
             "repo": "mobilityDCAT-AP",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8116,7 +8662,8 @@
             "owner": "FokkeB",
             "repo": "subset36",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8131,7 +8678,8 @@
             "owner": "GeiserX",
             "repo": "pumperly-ha",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "Transport and Mobility"
@@ -8152,7 +8700,8 @@
             "owner": "laravel",
             "repo": "vat-calculator",
             "stars": 1286
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8167,7 +8716,8 @@
             "owner": "ibericode",
             "repo": "vat",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8182,7 +8732,8 @@
             "owner": "valeriansaliou",
             "repo": "node-sales-tax",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8197,7 +8748,8 @@
             "owner": "yolk",
             "repo": "valvat",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8212,7 +8764,8 @@
             "owner": "DragonBe",
             "repo": "vies",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8227,7 +8780,8 @@
             "owner": "dannyvankooten",
             "repo": "vat",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8242,7 +8796,8 @@
             "owner": "pH-7",
             "repo": "eu-vat-validator",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8257,7 +8812,8 @@
             "owner": "ibericode",
             "repo": "vat-rates",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8272,7 +8828,8 @@
             "owner": "OCA",
             "repo": "intrastat-extrastat",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         },
         {
           "node_type": "item",
@@ -8287,24 +8844,25 @@
             "owner": "zapadi",
             "repo": "vies-dotnet",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:04:42.088Z"
         }
       ],
       "title": "VAT, Customs, and Trade"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:22.142Z",
+    "last_updated": "2026-08-28T06:04:42.088Z",
     "original_repository_info": {
       "archived": false,
       "id": 1188844769,
       "language": "Python",
-      "last_commit": "2026-08-25T15:08:38Z",
+      "last_commit": "2026-08-27T23:13:06Z",
       "owner": "GeiserX",
       "repo": "awesome-europe",
       "stars": 125
     },
-    "original_repository_sha": "a331149ca1a5ff098aa31404a1dc5146703beb74",
+    "original_repository_sha": "e7676c9269102618868585289c2eb5598d6aac55",
     "enhanced_repository": "enhansome/enhansome-europe",
     "enhanced_repository_description": null,
     "title": "Awesome europe with stars"
